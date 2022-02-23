@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Misery's virtues whet-stone reliquiæ Gethinianæ, or, Some remains of the most ingenious and excellent lady, the Lady Grace Gethin, lately deceased : being a collection of choice discourses, pleasant apothegmes, and witty sentences / written by her for the most part, by way of essay, and at spare hours ; published by her nearest relations to preserve her memory, and digested for method's sake under proper heads.</title>
+            <title>Misery's virtues whet-stone</title>
+            <author>Gethin, Grace, Lady, 1676-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42669</idno>
+            <idno type="STC">Wing G625</idno>
+            <idno type="STC">ESTC R7820</idno>
+            <idno type="EEBO-CITATION">12921852</idno>
+            <idno type="OCLC">ocm 12921852</idno>
+            <idno type="VID">95398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Misery's virtues whet-stone reliquiæ Gethinianæ, or, Some remains of the most ingenious and excellent lady, the Lady Grace Gethin, lately deceased : being a collection of choice discourses, pleasant apothegmes, and witty sentences / written by her for the most part, by way of essay, and at spare hours ; published by her nearest relations to preserve her memory, and digested for method's sake under proper heads.</title>
+                  <title>Misery's virtues whet-stone</title>
+                  <author>Gethin, Grace, Lady, 1676-1697.</author>
+               </titleStmt>
+               <extent>[10], 90 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Edwards, for the author,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95398:1" rendition="simple:additions"/>
+            <pb facs="tcp:95398:1" rendition="simple:additions"/>
+            <p>Miſery's Virtues Whet-ſtone.</p>
+            <p>
+               <hi>RELIQUIAE GETHINIANAE,</hi> OR, SOME REMAINS OF THE Moſt Ingenious and Excellent LADY, The Lady GRACE GETHIN, Lately Deceaſed.</p>
+            <p>BEING A COLLECTION OF Choice DISCOURSES, Pleaſant A<g ref="char:EOLhyphen"/>POTHEGMES, and Witty SENTENCES.</p>
+            <p>Written by Her for the moſt part, by way of Eſſay, and at Spare Hours.</p>
+            <p>Publiſhed by her neareſt Relations to preſerve her Me<g ref="char:EOLhyphen"/>mory, and Digeſted for Method's ſake under proper Heads.</p>
+            <q>
+               <bibl>Prov. xxxi. 31.</bibl>
+               <p>Let Her own Works Praiſe her in the Gates.</p>
+            </q>
+            <p>Printed by <hi>D. Edwards,</hi> for the AUTHOR. 1699.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:95398:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>modern bookplate</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95398:2"/>
+            <head>To the much Honoured, Sir GEORGE NORTON of <hi>Abbots-Leigh</hi> in the County of <hi>Somerſet,</hi> Baronet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE known Loyalty of your Family, and that most Eminent and memorable In<g ref="char:EOLhyphen"/>ſtance of it, the Protecting the ſacred Perſon of our late moſt Gracious Soveraign, King <hi>Charles</hi> the Second, in his most happy Diſguiſe in your Houſe near <hi>Briſtol,</hi> when being hunted as a Partridge upon the Mountains, he took Shelter under the Shadow of your Roof, and from thence eſcap'd, by a miraculous Providence from the many Snares that were laid for him, by his bloo<g ref="char:EOLhyphen"/>dy Enemies; This alone will eternalize your Name, and render you deſervedly Famous to Po<g ref="char:EOLhyphen"/>ſtetrity, and will alſo bear a large and a glori<g ref="char:EOLhyphen"/>ous part in the History of thoſe Times, and of
+<pb facs="tcp:95398:3"/>the Reſtauration of that Illuſtrious Monarch.</p>
+            <p>But there is alſo another Monument to pre<g ref="char:EOLhyphen"/>ſerve the Name and Honour of your Family, which at the Requeſt and Deſire of your most virtuous and Religious Lady, is here preſented to your view, and dedicated unto you.</p>
+            <p>It is indeed but an imperfect Collection, ſome ſcatter'd and inco-herent Fragments, the Glean<g ref="char:EOLhyphen"/>ings (as I may call them) and <hi>REMAINS</hi> of a moſt excllent Perſon, your own Off-ſpring and Iſ<g ref="char:EOLhyphen"/>ſue; and therefore, you Sir, have the beſt Right and Title to this Product of her overſlow<g ref="char:EOLhyphen"/>ing Wit and Fancy, and at the ſame time (which very rarely meets in one Perſon) moſt Profound and ſolid Judgment; which may ſerve as ſome faint Idea to ſhew us, of what an Inestimable Treaſure the World has been unhappily depri<g ref="char:EOLhyphen"/>ved by the Primature Death of this admirable Young Lady your Daughter.</p>
+            <p>But as imperfect as it is, yet from this light Tast, this ſhort and tranſient view of what ſhe did but a her ſpare Hours, as her <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> only;
+<pb facs="tcp:95398:3"/>and by the by, it is eaſy to ſee what tranſcendant Strength of Reaſon and Engagement ſhe was Mistreſs of, though at very young and tender years; what an excellent Example and Pattern of Virtue the World might have been bleſs'd withal, to help and reform it in this degenerate and worſt Ages; and what admirable max<g ref="char:EOLhyphen"/>ims of Prudence and Piety ſhe would have been capable of giving for the Conduct of Human Life: All which, coming from ſo fine an hand, would have been read and admired (when moſt others would have been deſpis'd) by the most celebrated Wits and Criticks of the Age, and could not have choſen but have had a mighty Inſtuence up<g ref="char:EOLhyphen"/>on them. It will, I doubt not, be look'd upon as an ineſtimable Treaſure by all her Friends; and as even the Filings of Gold are precious, and care<g ref="char:EOLhyphen"/>fully preſerved, ſo will thoſe <hi>GOLDEN RE<g ref="char:EOLhyphen"/>MAINS</hi> of this most Excellent Lady, be care<g ref="char:EOLhyphen"/>fully laid up and valued as they deſerve, by all that knew her; and eſpecially Sir, by you her Father, and by her most affectionate and afſtict<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:95398:4"/>Mother, as the beſt Reliques of a Perſon ſo very deſervedly dear to you Both; and who can never die ſo long as this Monument of her Virtue, Wit, and Ingenuity ſhall continue, which I pro<g ref="char:EOLhyphen"/>phecy, ſhall out-live the Marble Monuments; which you her dear Parents, in Testimony of your moſt tender and affectionate Remembrance of Her, have with great Coſt and Care erected to her Memory in <hi>Weſtminſter-Abby,</hi> She being the last of your Surviving Iſſue.</p>
+            <p>That your Lady and your ſelf, may in this your unſpeakable Loſs and Affliction, be mutual Com<g ref="char:EOLhyphen"/>fort to, and always happy in each other; That you may be bleſs'd together with long Proſperity here on Earth, and enjoy everlasting Happineſs and Felicity hereafter, is the hearty Deſire and Prayer of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt faithful and humble Servant <hi>J. M.</hi>
+               </signed>
+               <dateline>
+                  <date>April 4. 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:95398:4"/>
+            <head>
+               <hi>A POEM</hi> By the <hi>AUTHOR</hi> at a Eleven years Old.</head>
+            <lg>
+               <l>POor, Dull Mortals, who only ſeek to know</l>
+               <l>The falſe Draught, called, Happineſs below;</l>
+               <l>When this is only thus to let us ſee,</l>
+               <l>If this be termed happy, what muſt Heaven be?</l>
+               <l>For do we not account it a great grace,</l>
+               <l>When often we behold our Princes Face,</l>
+               <l>And when Commands their Pleaſure is to lay,</l>
+               <l>We as an Honour, readily Obey;</l>
+               <l>Much more Ambitious then ought we to be</l>
+               <l>To ſerve a God, ſo Juſt, Great, Good as he,</l>
+               <l>Who as to Ranſom his bleſt Son has ſent,</l>
+               <l>That he our Fatal ruin might prevent;</l>
+               <l>And leſt his Juſt Commands might e're ſeem hard,</l>
+               <l>A Crown Immortal promiſed a Reward,</l>
+               <l>Rewarded by our Saviour's Glorious Merits,</l>
+               <l>By Faith, Love, and Obedience, we Inherit.</l>
+            </lg>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:95398:5"/>
+            <head>
+               <hi>A POEM</hi> In Praiſe of the <hi>AUTHOR.</hi>
+            </head>
+            <lg>
+               <l>I That hate Books (ſuch as come daily out</l>
+               <l>By Publick Licence to the Reading Rout)</l>
+               <l>A Due Religion yet obſerve to this,</l>
+               <l>And here aſſert if any thing's amiſs,</l>
+               <l>It can be only the Compiler's Fault,</l>
+               <l>Who has ill dreſt the Charming Author's Thought,</l>
+               <l>That was all Right, Her Beauteous Looks were join'd</l>
+               <l>To a no leſs admir'd Excelling Mind,</l>
+               <l>But oh! This Glory of Frail nature's dead,</l>
+               <l>As I ſhall be that Write, and you that Read,</l>
+               <l>Once to be out of Faſhion, I'll conclude</l>
+               <l>With ſomething that may tend to Publick Good,</l>
+               <l>I wiſh that Piety, for which in Heav'n</l>
+               <l>The Fair is Plac't, to the Lawn-Sleeves were giv'n,</l>
+               <l>Her Juſtice to the Gnot of Men whoſe Care</l>
+               <l>From the Rais'd Millions is to take their Share.</l>
+            </lg>
+            <closer>
+               <signed>W. C.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95398:5"/>
+            <head>A Neceſſary PREMONITION TO THE READER.</head>
+            <p>THeſe few ſcatter'd <hi>Remains,</hi> of that Incomparable and moſt Excellent Lady, the Lady <hi>Grace Gethin,</hi> Daughter of Sir <hi>George Norton</hi> of <hi>Abbots-Leigh</hi> in the County of <hi>Somerſet,</hi> Knight, and Wife of Sir <hi>Richard Gethin</hi> of Grott in the County of <hi>Cork,</hi> in the Kingdom of <hi>Ireland,</hi> Barronet, having been fortunately found and preſerved, 'twas judg'd to be great pity that ſo rich a Treaſure of Wit and Inge<g ref="char:EOLhyphen"/>nuity, ſhould be laid aſide and buried in Oblivion.</p>
+            <p>I know it is a vaſt Diſadvantage, and therefore a great Injury, even to moſt exact and celebrated Authors, to publiſh their private undigeſted Thoughts and firſt No<g ref="char:EOLhyphen"/>tions haſtily ſet down, without Method or Order, and deſigned only as Material or a Foundation for a future ſtructure to be built thereon, which is Generally the Caſe of poſthumous Works, ſet forth without the Authors laſt hand, who therefore ſeldom gain any Credit by them, but on the contrary, if great allowances upon theſe accounts, be be not candidly made, do loſe a great part of that E<g ref="char:EOLhyphen"/>ſteem and Reputation, which formerly they had juſtly acquired.</p>
+            <p>That therefore this Monument, which is intended to perpetuate the Memory, and illuſtrate the Fame of this
+<pb facs="tcp:95398:6"/>Excellent Perſon, may neither in the whole be any real prejudice thereto, nor in any of the parts thereof come ſhort of that great and juſt Expectation, which the World had of Her while ſhe was alive, and ſtill has of every thing, that is the Genuine product and Iſſue of Her Pen. I think my ſelf in Juſtice obliged to give ſome account of what is here ſet forth, and thereby expoſed to publick Cenſure.</p>
+            <p>As 1ſt, That it was written for the moſt part in haſt, were her firſt Conceptions; and overflowing of her Luxu<g ref="char:EOLhyphen"/>riant Fancy, noted with her Pencil at ſpare Hours, or as ſhe was Dreſſing, as her <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> only; and ſet down juſt as they came into her Mind, as never deſigned for any others View but her own.</p>
+            <p>If any thing herein ſeems light or Trivial, or not ſo pro<g ref="char:EOLhyphen"/>per to come from a Ladies Pen of ſuch ſevere Virtue and Piety as ſhe was, it is to be remembred, that theſe were the Early Flights of Youthful Fancy (being ſcarce 20 when ſhe died) being writ ſome years before, and the firſt and free Productions of her moſt private and unre<g ref="char:EOLhyphen"/>ſtrained Thoughts, and which ſhe was Religiouſly care<g ref="char:EOLhyphen"/>ful, ſhould come to no others view; But there is in them ſuch ſtrength of Wit, ſuch handſom Raillery, ſuch Eſſay, and Natural Eloquence, that it was not thought fit wholly to ſtifle and ſuppreſs them, and deprive the World of ſo Great a Treaſure. And there is the leſs-Concern in this Matter, becauſe they are not deſigned for every ones pub<g ref="char:EOLhyphen"/>lick View, a few Copies being only intended to be Prin<g ref="char:EOLhyphen"/>ted, enough to preſerve her Memory, and for the private uſe of ſome perſons who were either perſonally acquainted with her, Admirers of her Wit and Virtue, or particu<g ref="char:EOLhyphen"/>larly known to thoſe that were; and ſo it is not doubted but they will make candid Interpretation of all.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95398:6"/>
+            <head>THE REMAINS OF THE Moſt Accompliſh'd and Excellent <hi>Lady,</hi> The Lady <hi>GRACE GETHIN.</hi>
+            </head>
+            <head type="sub">Digeſted under their Proper <hi>HEADS.</hi>
+            </head>
+            <div type="part">
+               <head>Of Friendſhip.</head>
+               <p>FRiendſhip without Tenderneſs, gives neither great Content nor Diſquiet; ſome have ſuch an in<g ref="char:EOLhyphen"/>ſenſible Friendſhip, they can part with their Friends without Melancholy, when abſent they think not of them; they render Courteſies without Plea<g ref="char:EOLhyphen"/>ſure
+<pb n="2" facs="tcp:95398:7"/>and receive them without Acknow<g ref="char:EOLhyphen"/>ledgment; they neglect all petty Cares, the misfortunes of thoſe they Love touch 'em not; Generoſity and Oſten<g ref="char:EOLhyphen"/>tation has as much part in all they Act as Friendſhip; their Love is ſo luke<g ref="char:EOLhyphen"/>warm, that the leaſt Conteſt is ready to infringe their Friendſhip: They Love as if they lov'd not, and their Friendſhip is very much intereſted, and built upon Self-love. We ſee eve<g ref="char:EOLhyphen"/>ry day theſe ordinary Friends without Tenderneſs forſake thoſe to whom they have promiſed Love, as ſoon as Fortune frowns on 'em. There are ſome that cannot bear the long ſickneſs of Friends, and care little for ſeeing 'em when they are no longer in a Condition to Direct them. But they are not truly Friends that have not a tender Heart; for 'tis That only that makes the ſweetneſs of
+<pb n="3" facs="tcp:95398:7"/>Friendſhip. Tenderneſs has yet ſome<g ref="char:EOLhyphen"/>thing more particular, it has I know not what Air of Gallantry that renders it yet more Diverting: It Inſpires Ci<g ref="char:EOLhyphen"/>vility in thoſe that are capable of it, and there is as much Difference between an ordinary and a tender Friend, as be<g ref="char:EOLhyphen"/>tween a tender Friend and a Lover.</p>
+               <p>The better to define Tenderneſs, it's a certain Senſibility of Heart, inſepara<g ref="char:EOLhyphen"/>ble from noble Souls, virtuous Inclina<g ref="char:EOLhyphen"/>tions, and ſolid Minds; which makes them, when they have Friendſhip, have it ſincerely and ardently, and have a lively Senſe of the Griefs and Joys of thoſe they Love. 'Tis this Tenderneſs obliges them to love better to be with their unhappy Friend, than to be in a<g ref="char:EOLhyphen"/>ny place of the greateſt Diverſion; It makes them excuſe their Faults and Defects; It makes them do great Ser<g ref="char:EOLhyphen"/>vices
+<pb n="4" facs="tcp:95398:8"/>with Joy, and not neglect the leaſt Cares; It renders particular Converſa<g ref="char:EOLhyphen"/>tion more ſweet than general; It ap<g ref="char:EOLhyphen"/>peaſes any Diſorder which may happen among Friends, it unites their Hearts, and all their Deſires: In a word, it com<g ref="char:EOLhyphen"/>prehends all the ſweetneſs of Friend<g ref="char:EOLhyphen"/>ſhip, it gives the greateſt Delight, and ſavours nothing of the irregularity of Love, but reſembles it in many things elſe. Thoſe of a ſtupid common Friend<g ref="char:EOLhyphen"/>ſhip take care only to keep the faireſt Letters of their Friends; but thoſe of a tender Friendſhip keep with pleaſure their leaſt Notes; they harken to an obliging word with Joy, and by an un<g ref="char:EOLhyphen"/>expreſſible Charm, thoſe of a truly ten<g ref="char:EOLhyphen"/>der Heart find no trouble to viſit thoſe for whom they have a Friendſhip, tho' they be ſick and Melancholy.</p>
+               <p>Friendſhip is the Allay of Sorrow,
+<pb n="5" facs="tcp:95398:8"/>the eaſe of our Paſſion, the Diſcharge of our Opreſſion, the Sanctuary to our Ca<g ref="char:EOLhyphen"/>lamities, the Councellor of our Doubts, the Clarity of our Minds, the Remiſſi<g ref="char:EOLhyphen"/>on of our Thoughts, and the Improve<g ref="char:EOLhyphen"/>ment of whatever we meditate. Virtue, Learning and Abilities may be deſpiſed; only Friendſhip is known to be ſo uſeful and profitable that none can deſpiſe it.</p>
+               <p>He that doth a baſe thing in Zeal to his Friend, burns the Golden thread that ties their Hearts together. The greateſt Bond and Demonſtration of Real Friendſhip, is to chuſe to have his Friend advanced in Honour, in Reputation, in the Opinion of Wit or Learning be<g ref="char:EOLhyphen"/>fore himſelf. Certainly, Friendſhip is the greateſt Bond in the World, which is the Marriage of Souls: It hath no other Meaſures but its own, being it ſelf as great as can be expreſs'd. Beyond
+<pb n="6" facs="tcp:95398:9"/>Death it cannot go, to Death it may; Friendſhip being the greateſt Bravery and Ingenuity in the World; He is to be choſen to my Friend who is moſt Worthy and moſt Excellent in himſelf; not he that can do moſt good to me. Chuſe to your Friend him that is wiſe, good, ſecret, ingenious and honeſt; all which are the very food of Friend<g ref="char:EOLhyphen"/>ſhip. He is only fit to be my Friend that can give me Councel, or defend my Cauſe, or guide me Right, or relieve my Needs, or can and will, when I need it, do me Good, Comfort me in my Sor<g ref="char:EOLhyphen"/>rows, be pleaſant to me in private, and uſeful in publick; that makes my Joy double, and divides my Grief between himſelf and me: Thus is Friendſhip the beſt thing in the World, and were it not for Pleaſure and Profit, there were no need of Friends.</p>
+               <pb n="7" facs="tcp:95398:9"/>
+               <p>Never accuſe your <hi>Friend,</hi> nor be<g ref="char:EOLhyphen"/>lieve him that doth. He that is angry for every ſlight <hi>Fault,</hi> breaks the Bonds of <hi>Friendſhip.</hi> He may be weak, and thou may'ſt need pardon as well as he; for thou doeſt not Contract with an An<g ref="char:EOLhyphen"/>gel when thou tak'ſt a <hi>Friend</hi> into thy Boſom; to whom give Counſel wiſely and charitably in all that is prudent, uſeful and neceſſary; but leave him to his Liberty without Anger if thy Coun<g ref="char:EOLhyphen"/>cel be rejected, for Advice is no Em<g ref="char:EOLhyphen"/>pire. Love to be with him; Treat him Nobly; Do to himall that is worthy of Love; Bear with his Infirmities; Give him Gifts and upbraid him not: Admo<g ref="char:EOLhyphen"/>niſh your <hi>Friend</hi> without Bitterneſs or Reproach, praiſe him with worthy pur<g ref="char:EOLhyphen"/>poſes, juſt Cauſes, and friendly En<g ref="char:EOLhyphen"/>dearments; for he is not my <hi>Friend</hi> who will be my <hi>Judge</hi> whether I will or no.
+<pb n="8" facs="tcp:95398:10"/>Never be a <hi>Judge</hi> between two <hi>Friends</hi> in a matter where both ſet their heart upon the Victory; For where <hi>Friends</hi> are the <hi>Parties,</hi> thou loſeſt one, which of 'em ſoever get the day. When my <hi>Friend</hi> is dead, I will mourn for him, perform his will, and do for him as if he were alive.</p>
+               <p>Thoſe that have a rational and ten<g ref="char:EOLhyphen"/>der <hi>Friendſhip</hi> will not only be ſecret in what they are deſired, but will alſo be ſilent in ſome things they are told, tho' the Party do not deſire it: But one ought in Generoſity to have a kind of Charitable diſcretion for thoſe that are not wiſe enough in their own Con<g ref="char:EOLhyphen"/>cerns.</p>
+               <p>
+                  <hi>Friendſhip</hi> is never deſtroy'd by <hi>Friendſhip;</hi> 'tis ſomething that is ſtron<g ref="char:EOLhyphen"/>ger than it ſelf muſt force it out of the heart 'tis once poſſeſs'd of; 'tis only
+<pb n="9" facs="tcp:95398:10"/>Love can do that; for when all is done one way make new Friends without in<g ref="char:EOLhyphen"/>jury to the Old: There are Friendſhips on the account for Love; ſuch as are in Love will Endeavour to make Friend<g ref="char:EOLhyphen"/>ſhips, whether their Friends like 'em to not like 'em. A love mixt with Friend<g ref="char:EOLhyphen"/>ſhip is the moſt laſting and is the Mi<g ref="char:EOLhyphen"/>ſtreſs of all the Qualifications requiſite in a true and Generous Friend; and 'tis very poſſible, in my Judgment, for Love to become Friendſhip, and Friendſhip Love; tho' ſome will not allow a great <hi>Friendſhip</hi> and violent Love can ſubſiſt together in one Heart. when One has <hi>Friendſhip</hi> for an agreeable Lover, it wants but little of being Love.</p>
+               <p>
+                  <hi>Friendſhip</hi> and love do ſometimes re<g ref="char:EOLhyphen"/>ſemble, but when that happen, the the <hi>Friendſhip</hi> is very tender, or the Love not very great; but I hold one
+<pb n="10" facs="tcp:95398:11"/>may love with ſuch a tender Amity, as may be a <hi>Medium</hi> between Love and Common Friendſhip.</p>
+               <p>There are ſome Friends to whom one would commit things of Importance and not Trifles; and there are ſome to whom one would tell Trifles but no<g ref="char:EOLhyphen"/>thing of Concern; and Love is a great Affair, and not to be enſtruſted to e<g ref="char:EOLhyphen"/>very Friend. One is never ſecure, if our Friend be not ſo Exact that he will never tell our Secrets.</p>
+               <p>
+                  <hi>Pythagoras</hi> compoſed many Excellent Verſes in praiſe of Heroick Friendſhip; he Eſtabliſh't a Community among his Diſciples, for he Confidently Main<g ref="char:EOLhyphen"/>tain'd there ought to be no diſtinct In<g ref="char:EOLhyphen"/>tereſt among Friends; if there be, 'tis only Society, not Friendſhip.</p>
+               <p>Sublime Heroick Friendſhip is as dif<g ref="char:EOLhyphen"/>ficult to find as Conſtant Love, and hard to be cultivated: the ſlight
+<pb n="11" facs="tcp:95398:11"/>Friendſhips of the world are more Con<g ref="char:EOLhyphen"/>venient, though not ſo Noble, Excel<g ref="char:EOLhyphen"/>lent and ſolid; but then it never gives us much trouble, nor makes us partake of the Misfortunes of our Friends; we are not much concern'd at the In<g ref="char:EOLhyphen"/>juries they ſuffer, but take all the flow<g ref="char:EOLhyphen"/>ers of Friendſhip, and leave the thorns to thoſe ſincere and Generous <hi>Friends,</hi> that reſent all their ſorrows without Exception, Engage in all their In<g ref="char:EOLhyphen"/>tereſts, and maintain 'em couragiouſ<g ref="char:EOLhyphen"/>ly againſt all the World; who have no different Fortunes, but equal concern in the Honour of each other; who can<g ref="char:EOLhyphen"/>not be poor while one is Rich, nor in Health if their Friend be ſick. 'Tis not Every body is capable of this, and tho' they wiſh it, they cannot attain to it; therefore, for fear of the like, I'm con<g ref="char:EOLhyphen"/>tent to love according to the Mode.</p>
+               <pb n="12" facs="tcp:95398:12"/>
+               <p>I conclude this Subject with the Say<g ref="char:EOLhyphen"/>ing of the Spaniard.</p>
+               <q>
+                  <l>—Grudge not to lend,</l>
+                  <l>Thy Heart, thy Hand, thy Fortune to thy Friend.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>Of Love.</head>
+               <p>Some affirm Tenderneſs a Quality more neceſſary for Love than Friendſhip. 'tis true that Affection pro<g ref="char:EOLhyphen"/>duces by the help of Reaſon, and which is conducted and govern'd by it, may produce the Effects of Tenderneſs; but Love which is commonly inconſiſt<g ref="char:EOLhyphen"/>ent with Reaſon, or at leaſt never Sub<g ref="char:EOLhyphen"/>ject to it, it hath need of Tenderneſs to correct its Stupidity and Inconſiderate<g ref="char:EOLhyphen"/>neſs. In Effect, Love without Tender<g ref="char:EOLhyphen"/>neſs has none but impetuous Deſires which cannot be confin'd; Such Lovers conſider only their own Satifaction without any regard to the Honour of
+<pb n="13" facs="tcp:95398:12"/>the Party beloved: Whereas true Ten<g ref="char:EOLhyphen"/>derneſs takes more care of the intereſt, credit and honour of the beloved Object, than of its own.</p>
+               <p>Almoſt all <hi>Lovers</hi> in general endea<g ref="char:EOLhyphen"/>vour only to pleaſe themſelves without any Reſervation, and have the Impu<g ref="char:EOLhyphen"/>dence in a rude, uncivil way to ask the greateſt favours as if they were due to them. Theſe free <hi>Lovers</hi> which are Enemies of Tenderneſs and laugh it to ſcorn, are commonly Inſolent and full of Vanity, eaſy to Anger, difficult to ap<g ref="char:EOLhyphen"/>peaſe, Indiſcreet when Favour'd inſup<g ref="char:EOLhyphen"/>portable when ill heated; they fancy the greateſt mark of <hi>Love</hi> they can give, is always to wiſh to be made happy; they value not, or at leaſt are not contented with favourable Looks, obliging words, and all thoſe little things which ſo tran<g ref="char:EOLhyphen"/>ſport thoſe that have tender ſouls; they
+<pb n="14" facs="tcp:95398:13"/>are <hi>Lovers</hi> that read their Miſtreſſes Letters but once over, nor have they any joyfull Emotion when they recive 'Em; they know not how to rave, ſpeak idly, nor ſigh agreeably, and are ignorant of a certain pleaſing Melan choly which proceeds from the tender<g ref="char:EOLhyphen"/>neſs of an Amorous Heart, and is often more agreeable than any other Delight: Theſe noiſy <hi>Lovers</hi> make all the proof of <hi>Love</hi> conſiſt in profuſe Expences, and are inſenſible of all the Delicacy's and inward Delights of it. This ſort of Paſſion inſpires a Brutal Jealouſy, and contrary to that of a <hi>Lover,</hi> without a generous tender Heart, they not only hate the <hi>Lover</hi> but their Miſtreſs too, but the other ſo reſpect their Miſtreſ<g ref="char:EOLhyphen"/>ſes that they often reſtrain their anger, againſt their Rival fearing to diſpleaſe them.</p>
+               <pb n="15" facs="tcp:95398:13"/>
+               <p>To love well, a <hi>Lover</hi> muſt have a natural Tenderneſs before he <hi>Loves,</hi> but this rarely happens; with moſt, a De<g ref="char:EOLhyphen"/>licate Senſibility gives all the Puniſh<g ref="char:EOLhyphen"/>ments and Pleaſures of <hi>Love:</hi> That <hi>Love</hi> is moſt perfect that has leaſt of Self-intereſt in it, when <hi>Love</hi> is weaker than Reaſon, 'tis no perfect <hi>Love.</hi> 'Tis not to be wondred if the <hi>Love</hi> of a man of higher Condition than the perſon <hi>loved</hi> continue, to that Degree, that it obliges him to marry her, for Hope Enlivens and Augments the Flame, ſo that he wants nothing whence he may derive a full confidence of his Happy<g ref="char:EOLhyphen"/>neſs if himſelf pleaſes; They are not the <hi>Lovers</hi> they would appear to be who can forbear poſſeſſing what they love out of a conſideration of Intereſt. I am one that believes that <hi>Love</hi> which Grows with out hopes, Subſiſts with<g ref="char:EOLhyphen"/>out
+<pb n="16" facs="tcp:95398:14"/>it, and meets with nothing but in<g ref="char:EOLhyphen"/>vincible Obſtacles, is more Obliging than that which cannot but hope tho' it would not. But I am of the Opinion that what Hope do's in the hearts of theſe <hi>Lovers,</hi> Glory effects in the other, and that there is a ſecret Satisfaction in <hi>Loving</hi> a Perſon of great Quality that has Beauty, Wit and Virtue.</p>
+               <p>It were Madneſs to think one's ſelf obliged to <hi>love</hi> any Body that <hi>loves</hi> us: Merit and Services are little conſider'd unleſs our Acceptance ſets a Value up<g ref="char:EOLhyphen"/>on them, which is beſt, to have Merit without <hi>Love,</hi> or <hi>Love</hi> without Merit? Fine Qualities are deſirable, chiefly be cauſe they make us <hi>loved:</hi> Since there fore their End is to pleaſe, he that hap<g ref="char:EOLhyphen"/>pens to pleaſe without Merit, is more happy than he that hath it, yet cannot pleaſe thoſe whom he wiſhes to pleaſe;
+<pb n="17" facs="tcp:95398:14"/>But one can't help being fill'd with a troubleſome Indignation to ſee Merit Neglects.</p>
+               <p>'Tis no great Difficulty to diſſemble <hi>love;</hi> and when one finds a Lady that is merry, of a eaſy Humour and gay Spirit, 'tis a Diverſion to give her a vo<g ref="char:EOLhyphen"/>luntary <hi>love</hi> which you may leave when you pleaſe, and which for the preſent gives you ſome delight; while this laſts, one may accuſtom one ſelf to ſpeak to Her more than to Another; I look on her; I praiſe her; I ſigh artificially: ſing light airs, which ſhe takes to her ſelf; expreſs my ſelf in Amorous Verſes, Languiſhing Looks, and abſolutely pretend to <hi>love</hi> her; If this pleaſes, ſhe is more free and Obliging than he; ſhe hopes all things, and feels, I know not what, which he calls <hi>love.</hi> In this ſlight imaginary <hi>love</hi> 'tis not like others, where <hi>love</hi> fore-runs
+<pb n="18" facs="tcp:95398:15"/>Hope, but in this, Hope precedes <hi>Love.</hi> 'Tis Neceſſary ſhe be not ſo very Com<g ref="char:EOLhyphen"/>plaiſant and of too eaſie a Carriage; but, chooſe one neither too ſevere nor too eaſy; who has no particular Gallant, yet affects Gallantry; fair and young without Capriciouſneſs: Theſe Demy-Miſtreſſes you may <hi>love</hi> without deſ<g ref="char:EOLhyphen"/>pair; Leave when you pleaſe, and paſs your time pleaſantly enough.</p>
+               <p>If one pleaſes to obſerve, one may make pleaſant Diſcoveries: when one ſees a Man of Senſe viſit a ſimple Woman, one may imagine ſhe hath an agreeable Kinſwoman or Acquaintance; and on the other hand, if one ſees a Woman of Wit frequent the Company of a fooliſh Fellow, I conclude he is her Cully one way or other; or if ſhe ſeem to like one whom 'tis impoſſible ſhe ſhould like in Juſtice or Intereſt, I conclude 'tis only
+<pb n="19" facs="tcp:95398:15"/>a ſhadow, under which ſhe may ſee him whom ſhe really <hi>Loves,</hi> but after all, Appearances are deceitful.</p>
+               <p>When one entertains a Paſſion, One is very apt to flatter ones ſelf, tho'there be a great diſproportion between ones ſelf and the Perſon one <hi>loves;</hi> ſo that if he have not a real Hope, he has ſomething that's like it that bears him up and com<g ref="char:EOLhyphen"/>forts him. I'le not be poſitive but there may be a <hi>Lover</hi> that can Hope nothing; if ſo, nothing can be more obliging than this ſort of <hi>Love;</hi> yet I am fully per<g ref="char:EOLhyphen"/>ſwaded no Woman can ever be obliged to a <hi>Lover</hi> for his <hi>Love;</hi> for 'tis certain, when a Man happens to be in <hi>love,</hi> 'tis be<g ref="char:EOLhyphen"/>cauſe he cannot avoid it; One may <hi>Love</hi> without hope of being favour'd, though not without Hope of being <hi>loved.</hi>
+               </p>
+               <p>One that Courts a melancholy Mi<g ref="char:EOLhyphen"/>ſtreſs muſt be very Cautious in the man<g ref="char:EOLhyphen"/>ner
+<pb n="20" facs="tcp:95398:16"/>of telling his Love; he muſt pay both great and ſmall Services, be full of Sweetneſs, Tenderneſs and Aſſiduity, and among all theſe, a little Ingredient of Deſpair; and if one muſt <hi>endure</hi> ſo much, 'tis better not to be lov'd. If a merry Miſtreſs be angry, ſhe is pacified with a <hi>Serenade;</hi> all <hi>Quarrels</hi> are but <hi>trifles</hi> which are reconcil'd at the next Treat or Di<g ref="char:EOLhyphen"/>verſion; if they do not love ſo zealouſly, neither do they expect ſo much Love, but give as much liberty as they take; they require nothing but what is agree<g ref="char:EOLhyphen"/>able in it ſelf; they will walk with you, laugh with you, ſing and dance with you; and to do all this for the love of them, certainly is not very difficult; And is it not better to ſerve theſe than thoſe that are full of Morals and the Po<g ref="char:EOLhyphen"/>liticks of Law? And who exact ſolid Tears inſtead of Pleaſures? A man, if
+<pb n="21" facs="tcp:95398:16"/>he would overcome ſuch a One, muſt mix with his Love the Glory to have it fervent, and muſt have an Amorous kind of Ambition, to redouble the Violence of that Paſſion: for 'tis a pleaſure after having been long a ſlave to a Miſtreſs to be at laſt a Conquerour, and to Van<g ref="char:EOLhyphen"/>quiſh that Heart that ſeem's Invincible.</p>
+               <p>I know not which is worſe, to be Wiſe to a Man that is continually changing his <hi>Loves,</hi> or to an Husband that hath but one Miſtreſs whom he <hi>loves</hi> with a conſtant Paſſion; and if you keep ſome meaſure of Civilty to her, he will at leaſt eſteem you: But he of the roving Humor plays an hundred Frolicks that divert the Town and perplex his Wife. She of<g ref="char:EOLhyphen"/>ten meets with her Husbands Miſtreſs, and is at a loſs how to carry her ſelf to<g ref="char:EOLhyphen"/>wards her. 'Tis true, the conſtant man is ready to ſacrifice every moment his
+<pb n="22" facs="tcp:95398:17"/>whole Family to his Love; He hates any place where ſhe is not, is prodigal in what concerns his Love, covetous in other reſpects; Expects you ſhould be blind to all he doth, and tho' you can't but ſee, yet muſt not dare to complain; and tho' both he that lends his Heart to whoſoever pleaſes it, and he that gives it entirely to One, do both of them require the exacteſt Devoir from their Wives; yet I know not if it benot bet<g ref="char:EOLhyphen"/>ter to be Wife to an unconſtant Husband (provided he be ſomething Diſcreet) than to a conſtant Fellow who is always perplexing her with his inconſtant Hu<g ref="char:EOLhyphen"/>mour. For the Unconſtant Lovers are commonly the beſt humour'd; but let 'em be what they will, Women ought not to be unfaithful for Virtue's ſake and their own, nor to offend by Ex<g ref="char:EOLhyphen"/>ample. It is one of the beſt bonds of Cha<g ref="char:EOLhyphen"/>rity
+<pb n="23" facs="tcp:95398:17" rendition="simple:additions"/>and Obedience in the Wife, if ſhe think her Husband Wife; which ſhe will never do if ſhe find him Jealous.</p>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon:</add>
+                  </note>Wives are young Mens Miſtreſſes, Companions for middle-Age and old mens Nurſes.</p>
+               <p>When I ſpeak of Love, I do not mean thoſe trifling Loves which do not de<g ref="char:EOLhyphen"/>ſerve the name they bear; when a man gives himſelf to Mirth and has no other deſign but Diverſion; I ſpeak of an un<g ref="char:EOLhyphen"/>uſual Love, that is ardent and ſincere, grounded on Eſteem and Virtue, and when once they have exchanged Hearts, their Deſires are the ſame, and likely ſo to continue. Ingratitude after this Dear<g ref="char:EOLhyphen"/>neſs is the moſt deteſtable Ingratitude, to one who gives all when they give their hearts. If they love thus; there wants nothing but Occaſion, and that depends on Fortune.</p>
+               <pb n="24" facs="tcp:95398:18"/>
+               <p>If any perſons of Wit be either merry or ſad without Cauſe, 'tis a ſign they are in Love.</p>
+               <p>A little love is pleaſant, too much is troubleſome.</p>
+               <p>To know all the delights of love, one muſt know all the bitters of it; and he that cannot make great Afflictions out of trivial Matters, ſhall ne're take great delight in great Favours; but if one will be happy in love he muſt fancy to him<g ref="char:EOLhyphen"/>ſelf great Pleaſure from ſlight Favours; the very ſight of the place where his Miſtreſs has been, muſt fill his heart with Joy, but ſuch a joy as muſt at once both grieve and rejoyce him; forin Love, Contraries often meet.</p>
+               <p>Nothing is more difficult than to re<g ref="char:EOLhyphen"/>concile <hi>Fear</hi> and <hi>Love,</hi> and 'tis a great Ma<g ref="char:EOLhyphen"/>ſter-piece to make ones ſelf beloved by thoſe that fear us. Thoſe tranſitory Loves
+<pb n="25" facs="tcp:95398:18" rendition="simple:additions"/>which ſucceeded one another do not de<g ref="char:EOLhyphen"/>ſerve the name of Love; ſome think if they have a ſincere conſtant paſſion for One, that they are not Inconſtant if now and then they make ſome tranſitory Gal<g ref="char:EOLhyphen"/>lantrys, provided that one be chief Mi<g ref="char:EOLhyphen"/>ſtreſs, and they ready, when ſhe pleaſes, to ſacrifice them all to her. But this is very Unjuſt; for they would have an En<g ref="char:EOLhyphen"/>tire heart, and are Jealous but of a kind Look to another, though they take the liberty to ſhare themſelves to every Woman they like in the World. But we often ſee, thoſe we confide in moſt, deceive us moſt; and therefore we ought not to put on an entire coſidence in any.</p>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note>Nuptial Love maketh Man kind: friendly Love perfecteth it; but wan<g ref="char:EOLhyphen"/>ton Love corrupteth it.</p>
+               <p>It is a true Rule, that love is ever rewarded either with its Reciprocal,
+<pb n="26" facs="tcp:95398:19"/>or with an inward and ſecret Content<g ref="char:EOLhyphen"/>ment.</p>
+               <p>A man ſerves his Prince, but gives himſelf to his Miſtreſs, and ſhe her ſelf to her Lover. 'Tis only Love alone that nnites Hearts, tho' Friendſhip alſo boaſts to have that power: Two dear Friends may each have a Miſtreſs that ſhall ſomewhat divide them, at leaſt ren<g ref="char:EOLhyphen"/>der their Friendſhip leſs conſiderable; but if Love unites two Perſons that have tender Breaſts and intelligent Minds, I defie Friendſhip to divide 'em.</p>
+            </div>
+            <div type="part">
+               <head>Of Gratitude.</head>
+               <p>'TIS a <hi>Queſtion,</hi> if Benefits oftner pro<g ref="char:EOLhyphen"/>duce Friendſhip, than Friendſhip it ſelf or great Deſerts without Benefits: I think Benefits ſeldom produce Friend<g ref="char:EOLhyphen"/>ſhip; for they are as apt to wear out of the mind as Grief, from which every
+<pb n="27" facs="tcp:95398:19"/>moment ſteals a part, ſo time weakens Gratitude as well as Affliction: neither will Friendſhip without Deſert produce a tender Friendſhip in Generous Minds. We are not obliged to love Every one that loves us, and on that account are ready to do us Good on all Occaſions; for this officious Love often proceeds from Vanity; and if we are always ready to acknowledge and return their Civilties, it's enough. For Friendſhip and Gratitude are two things; we ought to have Gratitude for all from whom we receive any Benefit, but 'tis not in our power to love whom we pleaſe; Deſert alone diſpoſes to a Friendſhip, for increates Eſteem; Benefits ought to engage us to their Intereſts, and beget a kind of Gratitude in our Minds, the Effects whereof reſemble Friendſhip: ſuch as have only Love to recommend
+<pb n="28" facs="tcp:95398:20"/>them, 'tis enough to have a Compaſſion and Pity for them.</p>
+               <p>Ingratitude is the worſt Vice, and moſt oppoſite to Nature and Equity. 'tis hardly known among Brutes, for Bene<g ref="char:EOLhyphen"/>fits and Kindneſs has mollified Lions; Only Men are capable of Ingratitude. This Vice is directly oppoſite to Juſtice; it overthrows all laws of Society, which to reaſonable People ought to be a con<g ref="char:EOLhyphen"/>tinual Armory of good Offices. The Laws of Humanity bid us do good to whomſoever ſtands in need of it: Is it not moſt juſt that we acknowledge from whom we receive a Benefit? But there are ſuch ill Tempers in the World, that when they have been very much oblig'd, they decline to own to whom they are obliged, and at length cannot en<g ref="char:EOLhyphen"/>dure 'em; and ſome are of that odd humour, they will not make the leaſt
+<pb n="29" facs="tcp:95398:20"/>return to thoſe that have done all things for them, yet render conſiderable to ſuch as never did them the leaſt Courteſie; they are of the Humour of thoſe who had rather make Preſents, than pay Debts. But the beſt is, all the World explains againſt this Vice, and there is no Un<g ref="char:EOLhyphen"/>grateful Perſon but decry's Ingtatitude.</p>
+               <p>Common Benefits are to be commu<g ref="char:EOLhyphen"/>nicated to all, but particular ones with Choice: To be thankful for ſmall Be<g ref="char:EOLhyphen"/>nefits, ſhews we value Mens Minds, not their Traſh.</p>
+               <p>'Tis ſtrange this Vice of Ingratitude, void of all pleaſure, ſhould be ſo Gene<g ref="char:EOLhyphen"/>ral; He that uſurps the Good, of another, enriches himſelf by it; A detracter hath the pleaſure of being eaſily beleived; A vindicative Perſon has the Content of being revenged of his Enemy; but an
+<pb n="30" facs="tcp:95398:21"/>ungrateful Man has the conſtant Diſ<g ref="char:EOLhyphen"/>pleaſure of being ſtung with Shame and Remorſe whenever he thinks what has been done for him; but thoſe who ar<g ref="char:EOLhyphen"/>rive at the higheſt pitch of Ingratitude, never think of what has been done for them; but if he doth not think at all, there is ſtill no Pleaſure in not thinking of it. 'Tis a Queſtion which is the worſt Ingratitude, that of a King or his Peo<g ref="char:EOLhyphen"/>ple, Maſter or Servant; and among Friends, that of Fathers or Children, Husbands or Wives, a Lover or his Mi<g ref="char:EOLhyphen"/>ſtreſs? There are ſeveral Degrees of it, and I think one may be poſitive there is no Equality under the Sun They may be divided into three Orders, <hi>viz.</hi> in point of Duty, Friendſhip and Love, there are Laws which direct Kings to Govern, and People to obey; but none to teach Gratitude in Love; the Morali<g ref="char:EOLhyphen"/>ty
+<pb n="31" facs="tcp:95398:21"/>of Love is no where to be found but in Sonnets; Love being uſually nothing but a piece of Gallantry diverting the World with pleaſant Songs and Verſes. This is a ſlighter Ingratitude much than in Friendſhip. The Ingratitude of Friends cauſes Hatred, and divides Fa<g ref="char:EOLhyphen"/>milies; that of bad Kings cauſes a thou<g ref="char:EOLhyphen"/>ſand Injuſtices, that of Subjects ſedition, Revolts and continual Wars; that of Husbands and Wives, criminal Loves and tragical Deeds; therefore Ingrati<g ref="char:EOLhyphen"/>tude in Duty is moſt Dangerous. An ungrateful Friend can never be a truly worthy Man, but one that is Ungrate<g ref="char:EOLhyphen"/>ful in Duty, may; for Fortune juſtifies many things. Ingratitude in Friend<g ref="char:EOLhyphen"/>ſhip is yet more deteſtable, for Kings do not chooſe their Subjects. Nor Peo<g ref="char:EOLhyphen"/>ple their Kings often; the ſame may be applied to Fathers and Children; and
+<pb n="32" facs="tcp:95398:22"/>even as to Husbands and Wives, Inte<g ref="char:EOLhyphen"/>reſt makes more Marriages than Love or Choice: So that if there be a defect in their Duty, tho' they are to blame, yet 'tis the leſs, becauſe not loving at all, they leſſen the Obligation; and fan<g ref="char:EOLhyphen"/>cying their Duty leſs, no wonder if they eaſily diſpenſe with part of what they owe; and this is to be ſaid for e'm, That ſince they cannot love whom they pleaſe, they cannot be oblig'd in ſpight of Inclination. But our Friends we chooſe, we are Voluntarily oblig'd to them; We are not conſtrain'd to love 'em by any Laws, or any diſorder'd Paſſion, but by conſequence Nature, Juſtice, Reaſon, Virtue and Honour, Exact of us a correſpondent Return of Good Offices, and tho' we want the pow<g ref="char:EOLhyphen"/>er, we ought never to forget it, but pub<g ref="char:EOLhyphen"/>liſh and own it with pleaſure.</p>
+               <pb n="33" facs="tcp:95398:22"/>
+               <p>What confidence can there be put in a Man who is failing to his Friend? The Ungrateful Man ruins his Reputa<g ref="char:EOLhyphen"/>tion in the World, and inſenſibly miſ<g ref="char:EOLhyphen"/>chiefs Himſelf more than others. 'Tis poſſible he that's ungrateful to his Prince, may be Grateful to his Friend, Miſtreſs or Relation, but an Ungrate<g ref="char:EOLhyphen"/>ful Friend is capable of any Ingrati<g ref="char:EOLhyphen"/>tude: For if one receive a Benefit from an Enemy, if he be ſo noble and Gene<g ref="char:EOLhyphen"/>rous as to confer it, one is oblig'd to ac<g ref="char:EOLhyphen"/>knowledge it as much as to a Friend; and I know not if one is not oblig'd to <hi>Gratitude,</hi> tho' one refuſes the ſervices they would do one.</p>
+               <p>
+                  <hi>Ingratitude</hi> is ſo common in the Minds of People, that from the King to a Slave, every one hath met with <hi>Ingratitude.</hi> If a Prince be Juſt and Good, the Peo<g ref="char:EOLhyphen"/>ple think he ought to be ſo, and
+<pb n="34" facs="tcp:95398:23"/>therefore they are not oblig'd to him for it. Kings, becauſe above Maſters, think they owe no reward to their Faith<g ref="char:EOLhyphen"/>ful Subjects, and that Tyranny is a right of Soveraignty. 'Tis the ſame in Republicks; for they imagine thoſe that obey can never do it blindly enough, and never trouble themſelves with ac<g ref="char:EOLhyphen"/>knowledgments. Maſters believe their Slaves born to do them ſervice without Reward, and they on the other ſide think that their leaſt ſervice ought not to be unrewarded by their Maſters; If we oblige a Friend, he thinks it an ob<g ref="char:EOLhyphen"/>ligation of Friendſhip, and at beſt, but ſlightly eſteems it: A Father becauſe he has given Life to his Child, thinks he ought to be as much in Subjection as when he was an Infant, and gives him no thanks for all his <hi>Endeavours</hi> to pleaſe him; The Children know their Birth
+<pb n="35" facs="tcp:95398:23"/>is not the greateſt Obligation, but re<g ref="char:EOLhyphen"/>pine for the Life they gave, if they do not all for them that they think they are able. Husbands whoſe Authority, is Eſtabliſh't by Force and Cuſtom think their Wives happy in Obeying them, and give them no thanks for all their Complacency; and Wives that have either Beauty or Virtue, imagine their Husbands too happy in having married them; If Fair, they're impertinent, if Wiſe, Inſolent. And a <hi>Lover</hi> is always charging his Miſtreſs with <hi>Ingratitude,</hi> and tho' he ſhould re<g ref="char:EOLhyphen"/>ceive a thouſand Favours, would yet make a thouſand Repinings; If at any time he has a leſs favourable Look than uſual, he murmurs, threatens to change his <hi>Love;</hi> and at length becomes <hi>ungrate<g ref="char:EOLhyphen"/>ful.</hi>
+               </p>
+               <p>There would be much leſs <hi>Ingratitude</hi>
+                  <pb n="36" facs="tcp:95398:24"/>in the World, were there leſs ſloth, for commonly the ſupine negligent Perſons are the moſt <hi>ungrateful,</hi> who would wil<g ref="char:EOLhyphen"/>lingly be oblig'd to all the World with<g ref="char:EOLhyphen"/>out obliging any. There are ſome Wo<g ref="char:EOLhyphen"/>men who value no ſervice that is done 'em, can forget a thouſand conſiderable good ſervices, without ever thinking of a Return; but becauſe they are Fair and love their Beauty above all things, never forget one Flattery, but will <hi>Love</hi> them beſt that deceive them moſt. But 'tis difficult to Examine all the different <hi>Ingratitudes</hi> the World is full of, they are ſo Various.</p>
+               <p>'T would be a cruel thing to be oblig'd to make returns to all that pretend to <hi>love</hi> one, or elſe be counted <hi>ungrateful,</hi> Impoſſibility ſets bounds to all things. We ſhould not be truly <hi>Grateful</hi> if we were ſo with Injuſtice. We ought not
+<pb n="37" facs="tcp:95398:24"/>to injure one Friend to oblige another; And when 'tis ſaid we ought to acknow<g ref="char:EOLhyphen"/>ledge all Good Offices, 'tis meant ſo as we may with Reaſon.</p>
+            </div>
+            <div type="part">
+               <head>Of Death-</head>
+               <p>THE very thoughts of <hi>Death</hi> di<g ref="char:EOLhyphen"/>ſturbs ones Reaſon; and tho' a Man may have many Eexcellent Qua<g ref="char:EOLhyphen"/>lities, yet he may have the Weakneſs of not Commanding his Sentiments. This is certain, Nothing is worſe for ones health than to be in fear of <hi>Death.</hi> There are ſome ſo Wiſe as neither to hate nor fear it; But for my part, I have an A<g ref="char:EOLhyphen"/>verſion for it and with Reaſon; for 'tis a raſh inconſiderate thing, that al<g ref="char:EOLhyphen"/>ways comes before it's look't for; always comes unſeaſonably, diſturbs all the pleaſures of Life, parts <hi>Friends,</hi> and has reſpect to nothing, ruins Beauty, laughs
+<pb n="38" facs="tcp:95398:25"/>Youth, draws a dark Veil over all the pleaſures of Life, and is Inflexible. But this may be ſaid for it, it Equals all men, cures all Deſires, ends all Miſ<g ref="char:EOLhyphen"/>fortunes, ſatisfies Ambition, determines love of Hatred, opens the gate to Good Fame, and extinguiſhes Envy; and this dreadful Evil is but the Evil of a Mo<g ref="char:EOLhyphen"/>ment, and what we cannot by any means avoid: And 'tis That that makes it ſo terrible to me, for were it uncertain, Hope might diminiſh ſome part of the Fear; but when I think I muſt die, and that I may die every moment, and that too a thouſand ſeveral ways, I'm in ſuch a Fright, as you cannot imagine. I ſee dangers where perhaps there never was any. I'm peſwaded 'tis happy to be ſomewhat dull of apprehenſion in this Caſe, and yet the beſt way to cure the penſiveneſs of the Thoughts of <hi>Death</hi>
+                  <pb n="39" facs="tcp:95398:25"/>bring, is to think of it as little as poſſi<g ref="char:EOLhyphen"/>ble. When againſt my will I hear of the <hi>Death</hi> of any One, I ſift a cauſe as far as I can from being applicable to my ſelf: For they who ſearch ſo deep in the bot<g ref="char:EOLhyphen"/>tom of things are never at quiet. Some are ſo inclin'd to fear that tho' they are neither on Sea, River or Creek, but in good Health in their Chamber, yet are they ſo well inſtructed with the fear of Dying, that they do not Meaſure it only by the preſent dangers that wait on us. Some cannot Enjoy themſelves in the pleaſanteſt place and Company in the World. If it <hi>Thunders;</hi> Fear all that may happen; fear the Earth may chance to ſhake as well in <hi>England</hi> as in the <hi>Indies:</hi> 'Tis true, all theſe Fears amount to No<g ref="char:EOLhyphen"/>thing; If the Earth muſt, it will ſhake, whether we will or no; If a Thunderbolt muſt fall, it will, and as likely in the place
+<pb n="40" facs="tcp:95398:26" rendition="simple:additions"/>where you ſeek Refuge, as in any other; Then, is it not beſt to ſubmit to God? But ſome People cannot do it as they would, and tho' they are not deſti<g ref="char:EOLhyphen"/>tute of Reaſon, but perceive they are to blame, yet even at the ſame time that their Reaſon Condemns them, their Ima<g ref="char:EOLhyphen"/>gination makes their Hearts feel what it pleaſes. The beſt way to prevent our Fears when we come to die, is our live<g ref="char:EOLhyphen"/>ing Holy and Innocent Lives: ſo make<g ref="char:EOLhyphen"/>ing it the buſineſs of our whole life to prepare for <hi>Death.</hi> And truly to con<g ref="char:EOLhyphen"/>ſider aright, One ought to think of <hi>Death</hi> as an Occaſion of being Frightned from Sin, and ſince I muſt infallibly ſee him one day, 'tis beſt not to be ſo great a ſtranger to him.</p>
+               <p>Our Saviour hath perfum'd and ſoft<g ref="char:EOLhyphen"/>ned the Bed of our Grave by his own Dying and being Buried: And how
+<pb n="41" facs="tcp:95398:26"/>can it grieve us to tread in his ſteps to Glory?</p>
+               <p>To have <hi>Death</hi> eaſie, think of that Glorious Life that follows it; We can endure Pain for Health, much more for Glory; How many Crowns and Sce<g ref="char:EOLhyphen"/>pters lie piled up at the Gate of <hi>Death?</hi> Have we ſo often ſeen our ſelves <hi>die</hi> in our <hi>Friends,</hi> and ſhould we ſhrink at our own Change? Hath our Maker and Redeemer ſent for us, and are we loth to go, who will put us in poſſeſſion of a Glorious Inheritance? 'Twas for Us Our Saviour triumph'd over <hi>Death:</hi> Is there any fear of a foiled Adverſary? He that lives Chriſtianly, <hi>dies</hi> boldly; He that lives miſerably <hi>dies</hi> willingly; He that knows <hi>Death,</hi> and foreſees Glo<g ref="char:EOLhyphen"/>ry, <hi>dies</hi> Chearfully and Triumphantly.</p>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:95398:27"/>
+               <head>Of Speech.</head>
+               <p>SOme perſons will ſpeak ſo much that one cannot interpoſe a Word, and others are ſo ſilent that one is almoſt o<g ref="char:EOLhyphen"/>bliged to ſpeak continually; So that I know not which is worſt and inſupport<g ref="char:EOLhyphen"/>able One who always ſpeaks, or one who muſt always be ſpoke to.</p>
+               <p>He that talks what he knows will al<g ref="char:EOLhyphen"/>ſo talk what he knows not; Some can talk of nothing but what is paſt, others, of nothing but the preſent. It adds no ſmall Reverence to Men's Manners and Actions if they be not altogether open: No man can be ſecret, except he give himſelf a little ſcope of Diſſimulation, which is the Skirt or Train of Secrecy.</p>
+               <p>Fluent and Luxurious <hi>Speech</hi> may become Youth well, but not Age.</p>
+               <pb n="43" facs="tcp:95398:27"/>
+               <p>Some think that to ſpeak well, one ſhould Chuſe only ſelect Words, but 'tis certainly beſt to ſpeak eaſie and Natural, but we are to avoid an affected Negli<g ref="char:EOLhyphen"/>gence; One ought not to affect <hi>hard words,</hi> but whoſoever ſpeaks, ſhould make him<g ref="char:EOLhyphen"/>ſelf Intelligible.</p>
+               <p>The Honourable part of <hi>Speech</hi> is to give the Occaſion; again to moderate and paſs to ſomething elſe, for then that leads the Dance; 'tis alſo Good in Diſcourſe and Converſation to vary and intermix <hi>Speech</hi> of the preſent Occa<g ref="char:EOLhyphen"/>ſion with Arguments; Tales with Rea<g ref="char:EOLhyphen"/>ſon; Asking of Queſtions with telling O<g ref="char:EOLhyphen"/>pinions; He that hath a Satyrical Vein, as he makes others afraid of his Wit, ſo he has need to be afraid of others Me<g ref="char:EOLhyphen"/>mory.</p>
+               <p>There are thoſe whoſe Thoughts come near the underſtanding of Mat<g ref="char:EOLhyphen"/>ters,
+<pb n="44" facs="tcp:95398:28"/>but their Words do ſo intricate their Conceptions, that one cannot un<g ref="char:EOLhyphen"/>derſtand what they would be at; and there are others that do not underſtand themſelves, ſo that they are not only to ſeek for their Words but their Ap<g ref="char:EOLhyphen"/>prehenſions too. The firſt are ambigu<g ref="char:EOLhyphen"/>ous in their Diſcourſe, becauſe they chooſe not fit Words to expreſs their Sentiments, the other, their Thoughts being confus'd, there are no Words to fit 'em. <hi>Speech</hi> of a Man's ſelf ought to be ſeldom and well choſen; <hi>Speech</hi> that touches towards others ſhould be ſpare<g ref="char:EOLhyphen"/>ingly us'd; for Diſcourſe ought to be a Field, without coming home to any particular Man.</p>
+               <p>It often happens that Men of good Senſe <hi>ſpeak</hi> little; but ſeldom that a great Talker has a clear Judgment, yet it is ſel<g ref="char:EOLhyphen"/>dom that thoſe who are Maſters of Wit
+<pb n="45" facs="tcp:95398:28"/>do <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>moſt wholly decline <hi>ſpeaking,</hi> but 'tis often that perſons of much Wit are too talkative; for Wit is a Fire that will diſcover it ſelf, and tho' ſeveral Extraordinary Men have affected to <hi>ſpeak</hi> little, yet they have made them<g ref="char:EOLhyphen"/>ſelves known by their Writings or A<g ref="char:EOLhyphen"/>ctions Wit can't, be conceal'd: There are great Poets, great Princes, great Phi<g ref="char:EOLhyphen"/>loſophers that have been very ſparing of their <hi>Speech,</hi> but their Works <hi>ſpeak</hi> for 'em, and prove their ſilence proceeded not from Stupidity. But it is not the ſame with thoſe people whoſe Wit is at their Tongues end, but their Actions are dumb. One may have Judgment, and <hi>ſpeak</hi> much, but thoſe that <hi>ſpeak</hi> too much have none. For tho' there ſeem little difference between one that <hi>ſpeaks</hi> very much and one that <hi>ſpeaks</hi> too much; yet it is as Liberality and Pro<g ref="char:EOLhyphen"/>digality,
+<pb n="46" facs="tcp:95398:29"/>the one a Virtue, the other a Vice. Yet ſome that <hi>ſpeak</hi> well may <hi>ſpeak</hi> too much, and by an over-for<g ref="char:EOLhyphen"/>wardneſs to ſhew their Parts and their Judgment, interrupt every one, and ſnatch all opportunities to <hi>ſpeak:</hi> But when a man loves to <hi>ſpeak</hi> becauſe Na<g ref="char:EOLhyphen"/>ture has given him an eaſie Expreſſion, a capacious Mind, a quick Fancy, a Memory ſtored with choice and Ra<g ref="char:EOLhyphen"/>tional Notions; when his Judgment is Maſter of his Wit and Fancy, and his Converſation perfectly ſuited to the Genius of the World, ſuch a one may <hi>ſpeak</hi> much with boldneſs, tho' I believe, he is alſo able to hold his peace, and will give Liberty of <hi>Speech</hi> to thoſe that deſire it.</p>
+               <p>To <hi>ſpeak</hi> well; 'tis requiſite to have a great deal of Wit, and a ſufficient, and Excellent Judgment; Some who do
+<pb n="47" facs="tcp:95398:29"/>not talk much, do liſten with ſuch inge<g ref="char:EOLhyphen"/>nious Attention, that 'tis plain they un<g ref="char:EOLhyphen"/>derſtand what Wit is, and have a great deal themſelves.</p>
+               <p>To <hi>ſpeak</hi> firſt, ſometimes prevents the trouble of anſwering to others Imperti<g ref="char:EOLhyphen"/>nent Queſtions. Some <hi>ſpeak</hi> what they ought not to think. 'Tis a great Maſter<g ref="char:EOLhyphen"/>piece to <hi>ſpeak</hi> well of all things without affecting Knowledge, to have a modeſt, prudent complyance in Diſcourſe, as well as a real Goodneſs in all our Acti<g ref="char:EOLhyphen"/>ons. They that have theſe commen<g ref="char:EOLhyphen"/>dable Qualities, beget a Love of Virtue in all that are Capable of it. 'Tis plea<g ref="char:EOLhyphen"/>ſant after long ſilence to relieve ones ſelf with <hi>ſpeaking:</hi> and 'tis well when peoples Actions <hi>ſpeak</hi> more than their Words.</p>
+               <p>There are ſome Compliant People more troubleſome than thoſe that Diſ<g ref="char:EOLhyphen"/>pute all things; they Grant all one
+<pb n="48" facs="tcp:95398:30"/>would have, ſay all one ſays, know no Opinion but what you put into their Heads; n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver ſay No, Always ſay Yes, Contradict themſelves as much as you pleaſe, and by a baſe Unworthy Com<g ref="char:EOLhyphen"/>plyance deſtroy converſation every mo<g ref="char:EOLhyphen"/>ment. One knows not what to ſay to 'em, one can make no Sport unleſs it be with 'em: Complyance is a good Qua<g ref="char:EOLhyphen"/>lity, confin'd in its Limits, and Guided by Judgment, otherwiſe 'tis as ſubject to Vice as Virtue. Diſcretion in <hi>Speech</hi> is more than Eloquence, and to <hi>ſpeak</hi> agreeably, than to <hi>ſpeak</hi> in good words or in good order: To uſe many Circum<g ref="char:EOLhyphen"/>ſtances before one comes to the Matter, is troubleſome and wearyſome, to uſe None is blunt.</p>
+               <p>'Tis not every one has the priviledge of <hi>Speaking</hi> diſpleaſing Truths without offence, 'tis but few can do this; and ſhould they pretend to imitate, they
+<pb n="49" facs="tcp:95398:30"/>would be unſufferable. 'Tis different to jeſt with ones Friend, which may be freely done without diſpleaſing them. 'Tis not enough to <hi>ſpeak</hi> plainly and reaſonably, but one muſt know well the Humour of thoſe to whom one would <hi>ſpeak</hi> freely: ſeveral love to give, but not to take Jeſts: Sometimes one bitter word makes the moſt pleaſant Raillery bite, nay the Tone of the Voice, or but a malicious Smile turns the moſt inno<g ref="char:EOLhyphen"/>cent Jeſt into a Satyr: Nothing requires more Judgment than to railly inoffen<g ref="char:EOLhyphen"/>ſively and to make this innocent War as it ought, which makes Converſation pleaſant when it ends without diſplea<g ref="char:EOLhyphen"/>ſure. Nothing can be more diſagreeable than not to be believed when one <hi>ſpeaks</hi> Truth. 'Tis well when peoples Actions <hi>ſpeak</hi> more Morality than their Words.</p>
+            </div>
+            <div type="part">
+               <pb n="50" facs="tcp:95398:31" rendition="simple:additions"/>
+               <head>Of Lying.</head>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon:</add>
+                  </note>A Man that <hi>Lyeth</hi> is an Hector to<g ref="char:EOLhyphen"/>wards God, and a Coward towards Men; for a <hi>Lye</hi> faces God, and ſhrinks from Men. No pleaſure is comparable to the ſtanding upon the advantage Ground of Truth; an Hill not to be com<g ref="char:EOLhyphen"/>manded, and where the Air is, always clear and ſerene. A <hi>Lye</hi> ſerves for Diſi<g ref="char:EOLhyphen"/>mulation, for Perfidiouſneſs, and almoſt all Crimes. To <hi>Lye</hi> for nothing is fool<g ref="char:EOLhyphen"/>iſh, and to <hi>Lye</hi> for Intereſt is a great Fault. There is nothing ſo contrary to the Godhead as <hi>Lying,</hi> for Truth is his inſeparable Attribute.</p>
+               <p>The ſearch of Truth is the Deſign of all Men, but eſpecially of the Wiſe. Of <hi>Lyes</hi> ſome ſorts are to be condemn'd, and ſome may be pardon'd; a great or a little <hi>Lye</hi> to any ones Prejudice ought
+<pb n="51" facs="tcp:95398:31"/>to be avoided: For ſince Juſtice and Ge<g ref="char:EOLhyphen"/>neroſity forbids Men to ſpeak even Re<g ref="char:EOLhyphen"/>flecting Truth, much more injurious Lyes. There are officious Lyes to the benefit of our Friends, which may be Excuſable on ſome Occaſions: If a <hi>Lye</hi> injures no body but do's good to ſome body, it may be thought inoffenſive, however 'tis injurious to the Relator, though to none elſe, becauſe it renders him leſs innocent: If I would <hi>Lye</hi> in be<g ref="char:EOLhyphen"/>half of another, certainly I would for my ſelf.</p>
+               <p>There are Lying-looks as well as Lye<g ref="char:EOLhyphen"/>ing-words; diſſembling Smiles, deceive<g ref="char:EOLhyphen"/>ing Signs, and even a Lying-ſilence: There are Lying-Civilties, and Lying-Courteſies; for people ſometimes o<g ref="char:EOLhyphen"/>blige thoſe whom they hate; ſome be<g ref="char:EOLhyphen"/>cauſe they need them, and others out of Fear and Weakneſs: ſometimes they
+<pb n="52" facs="tcp:95398:32"/>appear glad to ſee thoſe they Extream<g ref="char:EOLhyphen"/>ly diſlike: Thus do's Diſſimulation and Lying confound each other.</p>
+               <p>Though all Complements are Lyes, yet becauſe they are known to be ſuch, no body depends on 'em; ſo there is no hurt in 'em, you return them in the ſame manner you receive 'em, and with<g ref="char:EOLhyphen"/>out ſcruple conform to 'em, yet 'tis beſt to make as few as one can.</p>
+               <p>As for a pleaſant Relation, one may venture to add a little to Hiſtory; for Truth, for the moſt part, has ſomewhat too ſerious, and is not ſo diverting as Fiction; and ſince 'tis no more believ'd than Complement, one is left to ones Liberty.</p>
+               <p>There are no Lyes innocent, but ſuch as are Related for Lyes: yet it ought to appear profitable; for a meer Lye is Ridiculous. There is a ſort of Lying
+<pb n="53" facs="tcp:95398:32"/>pro<g ref="char:EOLhyphen"/>duced by Vanity, and theſe people are diverting enough; they are ſuch as commend themſelves, each according to his Fancy. There are Hectors that tell long Tales of dangerous Enterprizes, where they never were, out of a Violent deſire that the World may have a bet<g ref="char:EOLhyphen"/>ter Opinion of 'em than they deſire. There are fooliſh Fellows that ſpend whole Nights in deviſing Adventures, and whole Days in telling 'em; pretend<g ref="char:EOLhyphen"/>ing to Fortunes they never had; Some mean Birth pretending to be a Noble Family that came in with <hi>William</hi> the <hi>Conquerour;</hi> ſome would ſeem ſick, and think to hide Poverty with Lyes; and ſome Lyars are ſo Extravagant, that af<g ref="char:EOLhyphen"/>ter they have been puzzled by ſome perſon in Diſcourſe, without knowing what to ſay, make the handſomeſt An<g ref="char:EOLhyphen"/>ſwer in the world at home, as if they had
+<pb n="54" facs="tcp:95398:33"/>ſpoke them on the place. Some are ſo fooliſh to report, that Perſons of Quality Viſit them, and Write to 'em, who ne<g ref="char:EOLhyphen"/>ver thought on them.</p>
+               <p>The Sum of all is, That there are many Fools and Lyars in the World; tho' they that Lye to prejudice others are infinitly worſe than thoſe that ſo commend themſelves; but theſe are ſo Ridiculous, that I know not if I could not ſooner tell a Lye a little Malicious than to commend my ſelf. But theſe have weak Judgments, and deſerve Pity. If Truth could be Eſtabliſht in the World, Converſation would be quite changed, <hi>Lying</hi> would ſureſt argue Weakneſs; Diſſimulation would be baſe and even Lying-Civilities not free from blame. To lye for ones own Commen<g ref="char:EOLhyphen"/>dation is Ridiculous: Complements are lyes ſo known, they do no miſchief; and
+<pb n="55" facs="tcp:95398:33"/>Poets are the only Lyars that deſerve to be commended. Though Lying be a great Fault, 'tis very difficult abſolutely to renounce it, or always to ſpeak Truth. And if we well obſerve, they that Hate it moſt, do ſometimes uſe it. It has certain little Conveniences very Ne<g ref="char:EOLhyphen"/>ceſſary; We always add a little to a Story to make it more delightful. Who can commend a Woman without ſpeak<g ref="char:EOLhyphen"/>ing more Good of her than ſhe de<g ref="char:EOLhyphen"/>ſerves; or ſpeak ill of an Enemy with<g ref="char:EOLhyphen"/>out Aggravating his Faults; or a Lover complain without making his Miſery greater than it is? I beg your favour for pleaſant <hi>Lyes,</hi> and a <hi>Lye</hi> by way of Excuſe; or, to ſave the Life of a Per<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>'Tis a ſhrode <hi>Spaniſh</hi> Proverb. <hi>Tell a Lye and find a Truth:</hi> Certainly 'tis an Heaven upon Earth to have a Man's
+<pb n="59" facs="tcp:95398:34"/>Mind move in Charity, reſt in Provi<g ref="char:EOLhyphen"/>dence, and turn upon the poles of Truth. There are ſome that are Lyars, and don't know it; ſince Speech is the great Thing that diſtinguiſhes Men from Beaſts, how Unworthy are they that falſify it? No Beaſts have deceit<g ref="char:EOLhyphen"/>ful Cries, but that Animal bred on the Banks of <hi>Nile;</hi> 'tis only Wicked Man that perverts the uſe of his Voice.</p>
+               <p>Truth bears the ſupream ſway in Love and Friendſhip, and without it the World would be all Confuſion; Is there any thing more Odious than the Practices of thoſe great Perſons, who with Looks and Words make one hope a thouſand things they never mean to perform? Is there any thing more Cruel than to diſcover that your Friend has deceived you; or Miſtreſs, who ſwears ſhe loves none but you, and yet loves
+<pb n="57" facs="tcp:95398:34"/>divers others, or to ſpeak properly, loves none, for a divided Love is no Love.</p>
+               <p>Sometimes one is apt to accuſe an<g ref="char:EOLhyphen"/>other to excuſe ones ſelf.</p>
+               <p>True Lovers need not <hi>Lye</hi> unleſs in Poetry; but for the uſual Impertinent Lovers, they may ſpeak what they pleaſe, for none will believe 'em but eaſy Wo<g ref="char:EOLhyphen"/>men, that deſerve to be deceived: Let them feign Sighs and Tears, if they can, Flatter and Lye, pretend Deſpair and a thouſand Counterfeit Loves, they are all but ſo many Lyes.</p>
+               <p>Thoſe who do not ſcruple little In<g ref="char:EOLhyphen"/>fidelities, have ſtrong Diſpoſitions to greater ones, therefore one ought to ac<g ref="char:EOLhyphen"/>cuſtom ones ſelf to be Exact, even in the ſmalleſt things.</p>
+            </div>
+            <div type="part">
+               <pb n="58" facs="tcp:95398:35"/>
+               <head>Of Idleneſs.</head>
+               <p>I Know not which is moſt Shameful, to be a ſluggard for want of Wit or Cou<g ref="char:EOLhyphen"/>rage: Some are Idle only becauſe they are Careleſs; for they have a great deal of Wit, and on ſome occaſions, ſhew they have Courage, neither can one perceive they have any bad Qualities; Theſe are the moſt Guilty of all; for why ſhould they be ſo Unprofitable both to the World and to themſelves, to have Wit to no purpoſe, and ſuch an Indifference, as to concern themſelves with nothing; to have neither Love nor Ambition, but be ſo Negligent, as to be Uncapable of any great Pleaſure.</p>
+               <p>I Know not if it were at all better to addict ones ſelf to what is not very good, than to apply ones ſelf to Nothing: 'tis
+<pb n="59" facs="tcp:95398:35"/>certain, that thoſe whoſe Minds God has but ſparingly Enrich't, are happy when they are aſſign'd an Unactive Life, and ſo they are hidden in their own Obſcu<g ref="char:EOLhyphen"/>rities; This Deficiency produces the ſame Effect in them, which Wiſdom do's in others, and reſtrains them from appear<g ref="char:EOLhyphen"/>ing ill to the World.</p>
+               <p>There is none but Knows there are ſome that would not be ſpoken of, if they were not in great Employments, and of whom one hears a thouſand Diſ<g ref="char:EOLhyphen"/>courſes, becauſe they acquit themſelves ill of what they raſhly Undertake; Pro<g ref="char:EOLhyphen"/>mote an Hair-Brain'd Man, or one of Weak Capacity to the Management of State-Affairs, or a faint-hearted Man to Command in an Army, and you'll find 'tis pity there are no more Idle than there be. Though Idleneſs be good for nothing, yet it hurts none, it injures
+<pb n="60" facs="tcp:95398:36"/>none but themſelves; but ſuch as ma<g ref="char:EOLhyphen"/>nage Employments they are Unfit for, make great diſorders, and 'twere happy, if they did Nothing. Therefore 'tis better to Cenſure impertinent Buſy-Bodyes, than thoſe Lazy-Backs, who ſeek their Eaſe, and do better in indulg<g ref="char:EOLhyphen"/>ing their Quiet, than in being Active; but the worſt Idleneſs is, when they will addict themſelves to Nothing, though they are Oblig'd by Neceſſity to take the Employment which Fortune has given 'em: There are thoſe that in great Employments do only fore-caſt how to acquit themſelves of it, to En<g ref="char:EOLhyphen"/>joy a Quiet, attended with Pleaſure; they are of the humour not to do the things they're oblig'd to, but buſy them<g ref="char:EOLhyphen"/>ſelves in what they might Diſpenſe with, and perhaps ought to Neglect. When I obſerve a Grave Fellow, with
+<pb n="61" facs="tcp:95398:36"/>a Senator-like Aſpect, Ignorant of the Laws of his Country; but pretending to play the Gallant wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a Lady, who laughs at his awkward Courtſhip; on the other ſide, when I ſee a Man whoſe Age and Conditon qualifies him for a Spark, put on Senatour's Gravity, dive into the Doctrine of <hi>Pythagoras,</hi> ſpeak no ſmaller word than that of <hi>Tranſmi<g ref="char:EOLhyphen"/>gration,</hi> or <hi>Metempſychoſis,</hi> I ſigh and cry; why is not this man Idle? I am Poſſeſs'd with the pleaſant'ſt Indigna<g ref="char:EOLhyphen"/>tion in the world, for at the ſame time I contemn him, I take Pleaſure to abuſe him: And ſo to ſee a Captain know nothing of the Millitary Art, but to un<g ref="char:EOLhyphen"/>derſtand well that of Courting and Dancing, 'twere better he were ever Idle.</p>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:95398:37"/>
+               <head>Of the World.</head>
+               <p>VVE all find fault with the World, when we our ſelves are part of it, and ſometime or other do like all the World, commit faults, and are to blame in ſome things. One cannot ſay, ſuch a Wiſe or Good Man is un<g ref="char:EOLhyphen"/>capable of Failing; All men are men, and ſubject to Defects: All the World may be prejudiced; all the World is Crafty, Envious, Slanderous, Falſe, and Weak, and the Greateſt <hi>Hero</hi> has at ſome time of this Life, found a low Vul<g ref="char:EOLhyphen"/>gar Sentiment in his Heart, which in Prudence he ought to nouriſh no fur<g ref="char:EOLhyphen"/>ther than it conſiſts with his Intereſt, or his Pleaſure, or Honour engages him. In Equity we ought to love Men as they love us, and we may Encreaſe
+<pb n="63" facs="tcp:95398:37"/>or Diminiſh it as we ſee Occaſion.</p>
+               <p>'Tis moſt certain that Weakneſs and Uncertainty reigns in the Minds of all Men; and the wiſer a Man is, the more he ought to excuſe the Follies of the People. The more a Man drinks of the World, the more it intoxicateth. They that regulate their Sentiments by other Men, Oblige the others to follow Their's.</p>
+            </div>
+            <div type="part">
+               <head>Of Secrecy.</head>
+               <p>SOme ſay 'tis more trouble than can be imagin'd to keep Secrecy in Trifles: Serious Secrets that are of Mo<g ref="char:EOLhyphen"/>ment, they that have ſome Senſe of Honour, or a little Prudence will not Reveal; but for a Jeſt, or any other lit<g ref="char:EOLhyphen"/>tle Deverſion, 'tis very difficult not to ſpeak of 'em.</p>
+               <p>The beſt Compoſition and Tempera<g ref="char:EOLhyphen"/>ture,
+<pb n="64" facs="tcp:95398:38" rendition="simple:additions"/>is to have Openneſs in Fame and Opinon, and Secrecy in Habit.</p>
+            </div>
+            <div type="part">
+               <head>Of Proſperity and Adverſity.</head>
+               <p>'TIs an High Speech of <hi>Seneca;</hi> the Good things that belong to Pro<g ref="char:EOLhyphen"/>ſperity are to be wiſh'd, but the Good things that belong to Adverſity are to be Admir'd. It is true Greatneſs to have in one Perſon, the Frailty of a Man and the Security of a God, which is an Higher Speech of <hi>Seneca,</hi> too high for an Heathen. The Virtue of Pro<g ref="char:EOLhyphen"/>ſperity is Temperance, and the Virtue of Adverſity is Fortitude, which in mor<g ref="char:EOLhyphen"/>tals is the moſt Heroick Virtue.</p>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note>Proſperity is the Bleſſing of the <hi>Old Teſtament,</hi> Adverſity of the <hi>New,</hi> which carries the Great Benediction, and the clearer Revelation of God's Fa<g ref="char:EOLhyphen"/>vours,
+<pb n="65" facs="tcp:95398:38" rendition="simple:additions"/>and if we liſten to <hi>David</hi>'s Harp, Braver is Affliction of <hi>Job</hi> illuſtrated than the Felicity of <hi>Solomon.</hi>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> Virtue is like precious Odours, moſt fragrant when increaſed and Cruſh'd. Proſperi<g ref="char:EOLhyphen"/>ty do's beſt diſcover Vice; but Adver<g ref="char:EOLhyphen"/>ſity do's beſt diſcover Virtue. Where the Evil is derived from a Man's own fault, there it ſtrikes deadly. Toward the bearing Evils, a Man can charge no body but himſelf; and he that bears 'em with Courage makes 'em the leſs.</p>
+               <p>Nothing is Univerſally allowed to be a Good but Health. Some Perſons think they are to be pity'd if they do not laugh from Morning till Night.</p>
+            </div>
+            <div type="part">
+               <head>Of Children.</head>
+               <p>CHildren ſweeten Labour, but they make the Misfortune more bitter. They encreaſe the Care of Life, but
+<pb n="66" facs="tcp:95398:39"/>they mitigate the Remembrance of Death: Parents do beſt in keeping up their Authority over their Children, but not in keeping altogether their Purſes from 'em. There are ſome that Count their Wife and Children but as Bills of Charges; again there are ſome Rich, Fooliſh, Covetous Men, that take a pride in having no Children, be<g ref="char:EOLhyphen"/>cauſe they may be thought ſo much the Richer. If one has loſt divers Children, 'tis more to him to loſe the laſt than all the reſt.</p>
+               <p>'Tis eaſy in Infancy to weed out Evil, and plant Good; but Parents are com<g ref="char:EOLhyphen"/>monly more concern'd (in thoſe ten<g ref="char:EOLhyphen"/>der years) to beſtow Wit than Virtue; they teach 'em the Art of Writing and Speaking well, but not of Doing well: but believe it, the Manners are the Great concern of the Mind; and if they
+<pb n="67" facs="tcp:95398:39"/>are ſo unhappy as not to have the fa<g ref="char:EOLhyphen"/>culty of Diſcerning, they'll be ſubject to ſtrange things.</p>
+            </div>
+            <div type="part">
+               <head>Of Cowards.</head>
+               <p>NO People ſuffer more than Cow<g ref="char:EOLhyphen"/>ards; If they are neceſſitated to go to a Fight, and deſirous to paſs for Men of ſome Courage, 'tis not to be imagin'd what they ſuffer. Examples encourage 'em not, the Martial ſound, and Roaring of Guns half Kills 'em; they are ever prepared for a Retreat, fore-moſt in Flight, laſt in Battel, they are rack'd between Fear and Shame, and tho' they ſhould ſpeak like Coura<g ref="char:EOLhyphen"/>gious men, yet they ſee they are not believ'd, and they are often in Danger of being kick'd even by Cowards.</p>
+            </div>
+            <div type="part">
+               <pb n="68" facs="tcp:95398:40"/>
+               <head>Of Bad Poets.</head>
+               <p>NOthing is more worthy of Pity than Bad Poets: tho' they admire all they write, it often happens they perceive themſelves to be their only Admirers; If this do's not reclaim 'em, then they are vex'd to live in ſuch an unapprehenſive Age, where Men can Judge of Nothing, but according to their own particular Humour and Fan<g ref="char:EOLhyphen"/>cy; this Thought ſo incenſes 'em, that they reſolve for deſpiſing their Poetry, to ſcourge 'em with it, and as angry Children, think they are Reveng'd when they hit you with all their Might; ſo the Poor Poet Fancies, he laſhes his Enemies with his Satyrs; but when he finds himſelf deceiv'd, and that what he deſign'd ſhould fret 'em, on the con<g ref="char:EOLhyphen"/>trary,
+<pb n="69" facs="tcp:95398:40"/>do's only move their Laughter, he hates 'em for that Dulneſs and Un<g ref="char:EOLhyphen"/>mannerlineſs which himſelf is guilty of, continues doating on his Conce<g ref="char:EOLhyphen"/>ptions all his Life; dies out of Charity with all the World, and ſo by conſe<g ref="char:EOLhyphen"/>quence, is damn'd.</p>
+            </div>
+            <div type="part">
+               <head>Of Indifferency.</head>
+               <p>THere is nothing ſo ſtupid as that ſoft <hi>Indiſſerency,</hi> which makes ſome people be pleaſed with all things or nothing; which makes 'em enter<g ref="char:EOLhyphen"/>tain no great deſire of Glory, nor great fear of Infamy, neither love much, nor fear much: They follow Cuſtoms blindfold, they are only ſenſible of the Afflictions of the Body, the Mind be<g ref="char:EOLhyphen"/>ing wholly Inſenſible; And if one may ſo Expreſs it, they are Guilty of a cer<g ref="char:EOLhyphen"/>tain
+<pb n="70" facs="tcp:95398:41"/>Sluggiſhneſs of Mind which ren<g ref="char:EOLhyphen"/>ders 'em Unworthy of Life. In like manner, I ſhould be more prone to conceive hope of a Man, who in the beginning of his Life ſhould be hur<g ref="char:EOLhyphen"/>ry'd to evil Habit, than of one who faſtens upon Nothing; For to one that can Love or Hate immoderately, there needs no more to ſhew him a rational Object; but on him that is incapable of any violent Attraction, who has only a General <hi>Indifference</hi> for all things, can never any Good be done, and there is no Cure in <hi>Philoſophy</hi> for it.</p>
+               <p>
+                  <hi>Indifference</hi> ſometimes proceeds from Lowneſs of Spirit, incapable of making a Judgment of things, for 'tis natural for a Man to deſire that which he be<g ref="char:EOLhyphen"/>lieves to be Good; and if <hi>Indifferent</hi> People were able to Judge, they would certainly faſten upon ſomething. 'Tis
+<pb n="71" facs="tcp:95398:41"/>certain this lukewarm Temper which ſends forth feeble Deſigns, ſends forth feeble Lights, ſo that, not knowing any thing certainly, they can faſten on no<g ref="char:EOLhyphen"/>thing with Perſeverance.</p>
+               <p>The Grave <hi>Indifferent</hi> Perſons do neither Love nor Hate; they betake themſelves to Nothing, they unreſolv'd in every thing; ask 'em if they will walk, they know not; they're always in doubt, and endeavour to pleaſe or diſpleaſe 'em, they're little concern'd. An inconſtant Man is better than this, for he has always ſomething to do, and tho' he defire nothing Vehemently, and diſclaims Obſtinacy, yet he is for the time, ever reſolv'd in ſomething. But if we obſerve it, the <hi>Indifferent</hi> and the Inconſtant are not very contrary to each other: An Inconſtant loves <hi>In<g ref="char:EOLhyphen"/>differently</hi> all the Beauties of the Town,
+<pb n="72" facs="tcp:95398:42"/>and 'tis a cold <hi>Indifference</hi> in their Hearts that makes 'em thus Inconſtant and to love ſeveral: They Glory in their Weakneſs, and think they cannot be abſolute Sparks unleſs they be fickle; who Loving nothing much, yet ſpend their life as if they were wholly taken up with Love.</p>
+            </div>
+            <div type="part">
+               <head>Of Cenſoriouſneſs.</head>
+               <p>THere are ſome ſo given to Envy, Miſchief, and <hi>Cenſoriouſneſs,</hi> that they are ever on the Loading part, not ſo good as the Dogs that lick'd <hi>Lazarus</hi>'s Sores, but like Flyes, ſtill buzzing up<g ref="char:EOLhyphen"/>on the thing that is raw; they eaſily believe all the Good ſpoken of them<g ref="char:EOLhyphen"/>ſelves, and all the Evil ſpoken of o<g ref="char:EOLhyphen"/>thers.</p>
+            </div>
+            <div type="part">
+               <pb n="73" facs="tcp:95398:42"/>
+               <head>Of Revenge.</head>
+               <p>REvenge is a kind of wild Juſtice, which the more Man's Nature runs to, the more ought Law to weed it out. He that ſtudies Revenge keeps his own Wounds green, which other<g ref="char:EOLhyphen"/>wiſe would heal: If a Man meerly out of ill nature do's wrong, 'tis like the <hi>Thorns</hi> and <hi>Briars</hi> which prick and ſcratch, becauſe they can do no other.</p>
+               <p>By taking Revenge a Man is but e<g ref="char:EOLhyphen"/>ven with his Enemy, but with paſſing it over, he is Superiour.</p>
+            </div>
+            <div type="part">
+               <head>Of Boldneſs.</head>
+               <p>BOldneſs is the Child of Ignorance and Baſeneſs; nevertheleſs it faſt<g ref="char:EOLhyphen"/>ens and binds the Hand and Foot of thoſe that are ſhallow of Judgment, and
+<pb n="74" facs="tcp:95398:43" rendition="simple:additions"/>weak in Courage. Boldneſs is an ill keeper of Promiſes, and to men of great Judgment, bold Perſons are a ſport to behold: Nay Boldneſs is ever blind, not ſeeing Dangers and ill convenien<g ref="char:EOLhyphen"/>ces; And therefore 'tis ill in Council, and good in Execution.</p>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note>Deformed perſons are extreamly Bold, being firſt in their own defects, expoſed to Scorn, and in proceſs of time, that produces an Habit of Confidence, which at laſt ends in Boldneſs and Im<g ref="char:EOLhyphen"/>pudence,</p>
+            </div>
+            <div type="part">
+               <head>Of Youth and Age.</head>
+               <p>THE Inventions of Young Men are more lively than Old; Im<g ref="char:EOLhyphen"/>aginations ſtream into their Minds bet<g ref="char:EOLhyphen"/>ter. Heat and Veracity in Age is an Excellent Compoſition. For Buſineſs, Young Men are fitter to invent than
+<pb n="75" facs="tcp:95398:43" rendition="simple:additions"/>Judge, fitter for Execution than for Council, fitter for new Frolicks than ſolid Buſineſs: The Errors of Young Men are the ruin of Buſineſs, like an unruly Horſe that will neither ſtop nor turn. Men of Age on the contrary ob<g ref="char:EOLhyphen"/>ject too much, conſult too long, adven<g ref="char:EOLhyphen"/>ture too little, Repent too ſoon, ſeldom drive Buſineſs home to the full period.</p>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note>Young Men may be Learners while Old Men are Actors: Authority fol<g ref="char:EOLhyphen"/>lows Old Men, favour and Popularity Youth.</p>
+            </div>
+            <div type="part">
+               <head>Of Cuſtom.</head>
+               <p>CUſtom is every where Viſible, ſo that we may well wonder to hear Men profeſs, proteſt, engage, give great Words, and then do juſt as they have done before, as if they were dead Images, and Engines mov'd only by
+<pb n="76" facs="tcp:95398:44"/>the wheel of Cuſtom: Therefore we ought by all means Endeavour to ob<g ref="char:EOLhyphen"/>tain good Cuſtoms which may regulate Company, raiſe Emulation and quick<g ref="char:EOLhyphen"/>en Glory.</p>
+               <p>The greateſt Multiplication of Vir<g ref="char:EOLhyphen"/>tues upon Human Nature reſteth upon Society, well order'd and Diſcipline.</p>
+            </div>
+            <div type="part">
+               <head>Of Charity.</head>
+               <p>THe deſire of Power in exceſs, cauſed the Angels to fall, the deſire of of Knowledge in exceſs, cauſed Man to fall, but in Charity there's no exceſs; neither can Angels or Men come in danger by it. If a Man be Gracious and Courteous to ſtrangers, he is a Citizen of the World; if he be compaſſionate towards the Afflictons of others, it ſhews his heart to be like the Noble Tree, that is wounded it ſelf, when it gives the
+<pb n="77" facs="tcp:95398:44"/>Balm; If he eaſily pardons and remits Offences, it ſhews his mind is raiſed a<g ref="char:EOLhyphen"/>bove Injuries, ſo that he cannot be ſhot againſt. Good Thoughts (however God may accept 'em) yet towards men they are no better than good Dreams, except they be put in Act. Never de<g ref="char:EOLhyphen"/>fer Charity till Death, he that doth ſo, is rather liberal of other Men's ſub<g ref="char:EOLhyphen"/>ſtance than his own.</p>
+            </div>
+            <div type="part">
+               <head>Of Reading.</head>
+               <p>REading ſerves for Delight, for Or<g ref="char:EOLhyphen"/>nament, and for Ability; it per<g ref="char:EOLhyphen"/>fects nature, and is perfected by expe<g ref="char:EOLhyphen"/>rience; the Crafty contemn it, the Sim<g ref="char:EOLhyphen"/>ple admire it, and Wiſe Men uſe it. Some Books are to be taſted or ſwal<g ref="char:EOLhyphen"/>low'd, and ſome few to be chewed and digeſted. Reading makes a full man, Conference a Ready man, and Writing
+<pb n="78" facs="tcp:95398:45" rendition="simple:additions"/>an exact Man; He that writes little, needs a great Memory, he that confers little, a preſent Wit; and he that Reads little, needs much Cunning to make him ſeem to know that which he do's not.<note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> 
+                  <hi>Hiſto<g ref="char:EOLhyphen"/>ry</hi> makes Men Wiſe, <hi>Poetry</hi> witty, <hi>Mathematicks</hi> ſubtle, <hi>Philoſophy</hi> deep, <hi>Morals</hi> grave, <hi>Logick</hi> and <hi>Rhetorick,</hi> a<g ref="char:EOLhyphen"/>ble to Contend; nay, there is no Impe<g ref="char:EOLhyphen"/>diment in the Wit but may be wrought out by fit Study, where every defect of the Mind hath its proper Receipt. Thoſe that have excellent faculty of u<g ref="char:EOLhyphen"/>ſing all they know, can never know too much.</p>
+            </div>
+            <div type="part">
+               <head>Of Beauty.</head>
+               <p>THE beſt thing to illuſtrate Beauty is Virtue. The principal part of Beauty is Defect and Gracious Motions. Alſo that is the beſt part of Beauty
+<pb n="79" facs="tcp:95398:45" rendition="simple:additions"/>which a Painter cannot expreſs. Beau<g ref="char:EOLhyphen"/>ty is a Summer Fruit, eaſy to corrupt, and cannot laſt; for the moſt part, it makes a Diſſolute Youth, and Age a little out of Countenance; but where it lights well, it makes Virtue ſhine and Vice bluſh.</p>
+            </div>
+            <div type="part">
+               <head>Of Flattery.</head>
+               <p>AN Impudent Flatterer will praiſe him moſt, who is moſt Conſcious of his own Defects; That wherein he is moſt wanting, will he moſt entitle him to; that for which he is moſt out of Countenance, will a Flatterer not excuſe only, but juſtify as Brave and <hi>He<g ref="char:EOLhyphen"/>roick.</hi>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> Some are praiſed maliciouſly to their Heart, to ſtir Envy and Jealouſy towards 'em. Princes Love Flatterers, but are not over liberal in rewarding 'em. For People of worth, 'tis not neceſ<g ref="char:EOLhyphen"/>ſary
+<pb n="80" facs="tcp:95398:46"/>to fetch praiſes from their Prede<g ref="char:EOLhyphen"/>ceſſors, 'tis enough to ſpeak of their own particular Merit. Nothing is leſs plea<g ref="char:EOLhyphen"/>ſing than thoſe ſycophant Praiſes, that have been uſed to People who deſerve Blame. Not but that 'tis good to excuſe the defects of others, but ſome do not deſerve it.</p>
+            </div>
+            <div type="part">
+               <head>Of Riches.</head>
+               <p>RIches are the Baggage of Virtue; as the Baggage is to an Army, ſo Riches are to Virtue, ſpared or left be<g ref="char:EOLhyphen"/>hind hinders the March. Of great Rich<g ref="char:EOLhyphen"/>es there is no real Uſe, except it be in Diſtribution, the reſt is but Conceit: 'Tis certain great Riches have ſold more men than they have bought (excepting <hi>Purgatory</hi>) Seek ſuch Rich<g ref="char:EOLhyphen"/>es as we may get Juſtly, Uſe ſoberly, diſtribute chearfully, and leave content<g ref="char:EOLhyphen"/>edly.
+<pb n="81" facs="tcp:95398:46" rendition="simple:additions"/>When Riches come by the De<g ref="char:EOLhyphen"/>vil, by Fraud and Oppreſſion and un<g ref="char:EOLhyphen"/>juſt means, they come upon ſpeed, as <hi>Solomon</hi> ſays, ſuch make haſte to be Rich, but they ſhall never be Innocent.</p>
+            </div>
+            <div type="part">
+               <head>Of Honour and High Places.</head>
+               <p>HOnour hath three things in it, the Advantage-ground to do good, the Approach to Kings and prin<g ref="char:EOLhyphen"/>cipal Perſons, and the Raiſing of a Man's Fortune.<note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> The greateſt Honour is that which happens rarely, even ſuch as ſa<g ref="char:EOLhyphen"/>crifice themſelves to Death or Danger, for the good of their Country. Diſcreet followers and Servants help much to Reputation. The loweſt Virtues draw praiſe from the Common People, the middle Virtues work in 'em Admira<g ref="char:EOLhyphen"/>tion, but of the higheſt Virtues they have no ſenſe at all. Fame is like a Ri<g ref="char:EOLhyphen"/>ver,
+<pb n="82" facs="tcp:95398:47" rendition="simple:additions"/>bears all things light, and draws things weighty. To praiſe a Man's ſelf cannot be decent except in rare Caſes, but to praiſe ones Office or Profeſſion may be done with a good Grace and with a kind of <hi>Magnanimity.</hi>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> Envy is the Canker of Honour. Great Perſons had need to borrow other Mens Opini<g ref="char:EOLhyphen"/>ons to think themſelves Happy; They are the firſt to find their own Grief, tho' the laſt to find their own Faults.</p>
+               <p>We may obſerve the Deep, Sober, and Politick Perſons, in their poſts of Great<g ref="char:EOLhyphen"/>neſs, bemoan themſelves to abate the edge of Envy. Men in great Fortunes are ſtrangers to themſelves while they are in the buſtle of Buſineſs, having no time to tend their health either of Body or Mind. Men in great Places are thrice Servants; Servants of their Sovereign or State; Servants of Flame,
+<pb n="83" facs="tcp:95398:47"/>Servants of Buſineſs. It is ſtrange to ſee how men in great Places ſeek Poverty and loſe Liberty; ſeek Power over o<g ref="char:EOLhyphen"/>thers, and loſe the Power over their own ſelves. Happy are they, who in great Employments retain the Virtues of their private Condition; in their deſires to do what they ought to them<g ref="char:EOLhyphen"/>ſelves, are juſt to other People</p>
+            </div>
+            <div type="part">
+               <head>Of Pleaſure.</head>
+               <p>ONE cannot live without Pleaſure, and thoſe who ſeem never to en<g ref="char:EOLhyphen"/>joy any, but are naturally ſober and Grave, find delight in their own Me<g ref="char:EOLhyphen"/>lancholy. The Pleaſure one finds in ones ſelf, is the Melancholieſt Pleaſure, tho' perhaps the moſt ſolid. Solidity is not requir'd in Pleaſures, 'tis enough if they be pleaſing and ſprightly; if they dazzle our Reaſon and follow one
+<pb n="84" facs="tcp:95398:48"/>another, if they be full of Variety, and deceive, and amuſe us agreeably. All men deſire Good, but know not what it is. Nothing is ſo great an Antidote to Sorrow as Natural Mirth. 'Tis a Plea<g ref="char:EOLhyphen"/>ſure to ſome to divert themſelves with other Mens Follies.</p>
+            </div>
+            <div type="part">
+               <head>Of Suſpicion.</head>
+               <p>SUſpicion Clouds the Mind, loves Friends, checks Buſineſs, that it cannot go on Currently: It diſpoſes Kings to Tyranny, Husbands to Jea<g ref="char:EOLhyphen"/>louſy, Wiſe Men to Irreſolution and Melancholy, which are defects not of the Heart but of the Brain.</p>
+            </div>
+            <div type="part">
+               <head>Of Excuſes.</head>
+               <p>'TIS juſter to Excuſe the defects that are incident to that Age and Con<g ref="char:EOLhyphen"/>dition men are of, than the contrary:
+<pb n="85" facs="tcp:95398:48"/>One would ſooner Excuſe a Covetous old Man than a young Miſer; and tho' it be great folly to heap up Riches, when we no longer need 'em; yet we ſee 'tis a defect commonly attends Old Age: Neither ought we to wonder, that an Old Man loves to recount what he has ſeen in his Youth, and to talk it over and over again, but how Impertinent do'es it look in a Young Man to be tel<g ref="char:EOLhyphen"/>ling long Tales? There are defects that belong to certain Conditions: How is it poſſible for a Man in publick buſi<g ref="char:EOLhyphen"/>neſs never to fail his word? In ſome places men cannot do what they pleaſe, and tho' it appear as tho' they did not well, yet we know not what Cir<g ref="char:EOLhyphen"/>cumſtances they are under, and there<g ref="char:EOLhyphen"/>fore ſhould always make reaſonable al<g ref="char:EOLhyphen"/>lowances, and not to be raſh in our Judgments and Cenſures.</p>
+            </div>
+            <div type="part">
+               <pb n="86" facs="tcp:95398:49" rendition="simple:additions"/>
+               <head>Miſcellanies.</head>
+               <p>
+                  <note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note>TIS good to commit the beginning of all great actions to <hi>Argus</hi> with his hundred Eyes, and the end to <hi>Bri<g ref="char:EOLhyphen"/>areus</hi> Wit of Fools. and a Crooked Wiſ<g ref="char:EOLhyphen"/>dom; like them that pack the Cards, but know not how to play 'em.</p>
+               <p>They that too much reverence Old times are but the Scorn to the new. Hope is one of the beſt Antidotes a<g ref="char:EOLhyphen"/>gainſt the Poyſon of Diſcontent. For<g ref="char:EOLhyphen"/>tune is like the Market, where many times, if you can ſtay a little, the price will fall. Severity breedeth Fear, but Roughneſs cauſes Hate. Reproof from Authority ought to be Grave not taunt<g ref="char:EOLhyphen"/>ing. A Man that is baſe and Inquiſi<g ref="char:EOLhyphen"/>tive is commonly Envious. Good things never appear in their full Beauty, till
+<pb n="87" facs="tcp:95398:49" rendition="simple:additions"/>they turn their backs and are going a way. Unmarried men are the beſt Friends, beſt Maſters, beſt Servants, but not always the beſt Subjects. <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> ſays well, that Anger is like Ruin which breaks that which it falls upon. A Man that hath no Virtue in himſelf envieth it in others.<note place="margin">
+                     <add>L<hi rend="sup">d</hi> Bacon</add>
+                  </note> A Man's Nature runs either to Herbs or Weeds, there<g ref="char:EOLhyphen"/>fore let him ſeaſonably Water the one and Deſtroy the other.</p>
+               <p>Curioſity were a Vice in me, who hate to have people prying into my Concerns, Endeavouring to pump me, or importunate to know what I have no mind to tell; therefore how unjuſt were it in me to teaſe others after this manner. There's nothing more diffi<g ref="char:EOLhyphen"/>cult to find than a Woman Endued with all the Qualifications requiſite in a Per<g ref="char:EOLhyphen"/>ſon of Honour, and which accompliſh
+<pb n="88" facs="tcp:95398:50"/>an Excellent Woman: The ſame Tem<g ref="char:EOLhyphen"/>per that gives a great and high Genero<g ref="char:EOLhyphen"/>ſity is not always accompany'd with Modeſty; that which gives Juſtice and Conſtancy in important affairs, ſeldom conſiſts with that ſociable Complai<g ref="char:EOLhyphen"/>ſance and Mildneſs that belongs to their Sex; that which makes them capable of Great matters, do's not ſtoop to cer<g ref="char:EOLhyphen"/>tain trifles which in decency are almoſt neceſſary to Women. One rarely meets with one that has all the Virtues of an Honourable Excellent Woman to de<g ref="char:EOLhyphen"/>ſerve all the Praiſes that can be given ſeverally to both Sexes. To be exact as one ought without conſtraint or Cere<g ref="char:EOLhyphen"/>mony is a Commendable Quality. The Eyes often diſcover either Wit, Wiſ<g ref="char:EOLhyphen"/>dom, or Goodneſs, or what you, pleaſe. We often believe what our Fathers be<g ref="char:EOLhyphen"/>lieved before us, without ſearching in<g ref="char:EOLhyphen"/>to
+<pb n="89" facs="tcp:95398:50"/>the Reaſon of our belief. There are few ſublime Wits, that pry into the o<g ref="char:EOLhyphen"/>riginal of things, or endeavour to make a perfect diſcovery thereof. From our firſt uſe of Reaſon, 'tis prepoſſeſs'd with the ſentiments of others, that can't with<g ref="char:EOLhyphen"/>out Violence clear it ſelf from what entangles it; ſo that men are often de<g ref="char:EOLhyphen"/>ceived in what they think themſelves moſt ſecure, which has made ſome turn Scepticks, and to doubt of almoſt every thing.</p>
+               <p>Till the days of <hi>Pythagoras,</hi> the moſt Learned believ'd, the Morning and Evening to be two diſtinct Stars; and gave them ſeveral Names which they ſtill bear; Nevertheleſs this know<g ref="char:EOLhyphen"/>ing <hi>Philoſopher</hi> doſcover'd they were the ſame.</p>
+               <p>
+                  <hi>Pythogoras</hi> commanded his Diſciples to Honour the Gods, and never to ask
+<pb n="90" facs="tcp:95398:51"/>any particular thing of them importu<g ref="char:EOLhyphen"/>nately, both becauſe no man knows ex<g ref="char:EOLhyphen"/>actly what is fitteſt for him, and 'tis a more reſpectful temper to ſubmit to the orders of Heaven. Few have an Univer<g ref="char:EOLhyphen"/>ſal knowledge of things ſo as never to be deceiv'd, a ſound Judgment and ſolid Morality; to have prudence to fore-ſee the moſt remote and leaſt probable E<g ref="char:EOLhyphen"/>vents, and conſtancy to ſupport the greateſt and moſt unexpected Misfor<g ref="char:EOLhyphen"/>tunes. Few are very ſenſible of the Mis<g ref="char:EOLhyphen"/>fortunes even of thoſe they love, or at moſt their Regret is ſeldom of long Con<g ref="char:EOLhyphen"/>tinuance. Compaſſionate Grief is tranſi<g ref="char:EOLhyphen"/>ent, the ſooneſt diſpelled with the draw<g ref="char:EOLhyphen"/>ing of the leaſt pleaſure, and with no<g ref="char:EOLhyphen"/>thing ſooner than Natural Mirth. There's no Celerity comparable to the Motion of Bullet in the Air, which flies ſo ſwift that it out-runs the Eye.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95398:51" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
